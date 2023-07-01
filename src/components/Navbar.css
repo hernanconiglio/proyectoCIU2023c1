@@ -1,0 +1,25 @@
+* {
+    margin:  0;
+    padding: 0;
+  }
+
+.logo-container {
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  
+  .logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90%;
+    height: 90%;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+  }
+  
+  .logo.visible {
+    opacity: 1;
+  }
+  

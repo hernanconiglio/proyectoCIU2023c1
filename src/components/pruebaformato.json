@@ -1,0 +1,3248 @@
+{
+    "collection": {
+        "version": "1.0",
+        "href": "http://images-api.nasa.gov/search?q=artemis&media_type=image&description=artemis",
+        "items": [
+            {
+                "href": "https://images-assets.nasa.gov/image/Artemis Logo Color Positive RGB-July 2021/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "title": "Artemis Logo RGB",
+                        "nasa_id": "Artemis Logo Color Positive RGB-July 2021",
+                        "date_created": "2021-07-09T00:00:00Z",
+                        "keywords": [
+                            "Artemis"
+                        ],
+                        "media_type": "image",
+                        "description_508": "Artemis logo",
+                        "description": "Artemis Program logo"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/Artemis Logo Color Positive RGB-July 2021/Artemis Logo Color Positive RGB-July 2021~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/Artemis Logo Black RGB-July 2021/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "title": "Artemis Logo Black RGB",
+                        "nasa_id": "Artemis Logo Black RGB-July 2021",
+                        "date_created": "2021-07-09T00:00:00Z",
+                        "keywords": [
+                            "Artemis logo-black"
+                        ],
+                        "media_type": "image",
+                        "description_508": "Artemis logo",
+                        "description": "Artemis logo-black"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/Artemis Logo Black RGB-July 2021/Artemis Logo Black RGB-July 2021~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/Artemis Logo White RGB-July 2021/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "title": "Artemis Logo White RGB-July 2021",
+                        "nasa_id": "Artemis Logo White RGB-July 2021",
+                        "date_created": "2021-07-09T00:00:00Z",
+                        "keywords": [
+                            "Artemis logo"
+                        ],
+                        "media_type": "image",
+                        "description_508": "Artemis logo",
+                        "description": "Artemis logo"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/Artemis Logo White RGB-July 2021/Artemis Logo White RGB-July 2021~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/Artemis II second poster_11x17_300ppi_CMYK_Right/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-04-06T00:00:00Z",
+                        "description": "Artemis II poster_11x17_300ppi_CMYK_Right",
+                        "description_508": "Stylized poster for NASA's Artemis II mission",
+                        "keywords": [
+                            "Artemis II",
+                            "Artemis"
+                        ],
+                        "media_type": "image",
+                        "nasa_id": "Artemis II second poster_11x17_300ppi_CMYK_Right",
+                        "title": "Artemis II Poster - 11 x 17"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/Artemis II second poster_11x17_300ppi_CMYK_Right/Artemis II second poster_11x17_300ppi_CMYK_Right~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ArtemisII  second poster_11x17_300ppi_CMYK_Left/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-04-06T00:00:00Z",
+                        "description": "Stylized poster for NASA's Artemis II mission. ",
+                        "description_508": "Stylized poster for NASA's Artemis II mission",
+                        "keywords": [
+                            "Artemis II",
+                            "Artemis"
+                        ],
+                        "media_type": "image",
+                        "nasa_id": "ArtemisII  second poster_11x17_300ppi_CMYK_Left",
+                        "title": "Artemis II  Poster 11x17"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/ArtemisII  second poster_11x17_300ppi_CMYK_Left/ArtemisII  second poster_11x17_300ppi_CMYK_Left~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/ArtemisII_Poster_11x17_300ppi_CMYK/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-04-06T00:00:00Z",
+                        "description": "Stylized poster for NASA's Artemis II mission",
+                        "description_508": "Stylized poster for NASA's Artemis II mission",
+                        "keywords": [
+                            "Artemis II",
+                            "Artemis"
+                        ],
+                        "media_type": "image",
+                        "nasa_id": "ArtemisII_Poster_11x17_300ppi_CMYK",
+                        "title": "Artemis II Poster - 11 x 17"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/ArtemisII_Poster_11x17_300ppi_CMYK/ArtemisII_Poster_11x17_300ppi_CMYK~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220316-PH-KLS01_0308/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Artemis Summit Speakers - OSTEM",
+                        "photographer": "NASA/Kim Shiflett",
+                        "location": "OSB II; VAB",
+                        "nasa_id": "KSC-20220316-PH-KLS01_0308",
+                        "media_type": "image",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis Summit",
+                            "OSTEM"
+                        ],
+                        "date_created": "2022-03-16T00:00:00Z",
+                        "description": "Partners and guests toured the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on March 16, 2022 ahead of the rollout of the agency’s Artemis I Space Launch System and Orion spacecraft to Launch Pad 39B for a wet dress rehearsal ahead of launch. The group was at the center for the Artemis Summit, a one-day meeting for partners, grantees and other interested organizations to learn about Public and STEM Engagement plans and opportunities for the upcoming Artemis I mission. The event introduced participants to the importance of the Artemis program and supports them in the use of Artemis I content as they serve students, educators, families, and the general public. "
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220316-PH-KLS01_0308/KSC-20220316-PH-KLS01_0308~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220316-PH-KLS01_0082/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Artemis Summit Speakers - OSTEM",
+                        "photographer": "NASA/Kim Shiflett",
+                        "location": "OSB II; VAB",
+                        "nasa_id": "KSC-20220316-PH-KLS01_0082",
+                        "media_type": "image",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis Summit",
+                            "OSTEM"
+                        ],
+                        "date_created": "2022-03-16T00:00:00Z",
+                        "description": "U.S. Dept. of Education Deputy Secretary Cindy Marten addresses NASA’s national partners and guests during the Artemis Summit at NASA’s Kennedy Space Center in Florida on March 16, 2022. The Offices of STEM Engagement, Communication and Human Exploration Operations Mission Directorate hosted a one-day meeting for partners, grantees and other interested organizations to learn about Public and STEM Engagement plans and opportunities for the upcoming Artemis I mission. The event introduced participants to the importance of the Artemis program and supports them in the use of Artemis I content as they serve students, educators, families, and the general public."
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220316-PH-KLS01_0082/KSC-20220316-PH-KLS01_0082~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/2560x1440_Artemis-Mark-Full-Color/collection.json",
+                "data": [
+                    {
+                        "description": "Artemis will light our way to Mars. The new Artemis identity draws bold inspiration from the Apollo program and forges its own path, showing how it will pursue lunar exploration like never before and pave the way to Mars.",
+                        "title": "Artemis Program Identity",
+                        "keywords": [
+                            "artemis",
+                            "artemis program",
+                            "artemis 1",
+                            "artemis I"
+                        ],
+                        "nasa_id": "2560x1440_Artemis-Mark-Full-Color",
+                        "date_created": "2019-07-19T00:00:00Z",
+                        "media_type": "image",
+                        "center": "HQ"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/2560x1440_Artemis-Mark-Full-Color/2560x1440_Artemis-Mark-Full-Color~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0056/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2023-06-02T00:00:00Z",
+                        "description": "Inside the high bay of the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida, technicians assemble on the Optical Communications System for the Artemis II mission on June 2, 2023. Optical communications is the latest space communications technology that is able to provide data rates as much as a hundred times higher than current systems. This will allow astronauts to send and receive ultra-high-definition video from the surface of the Moon or other planets such as Mars. Artemis II will be the first Artemis mission flying crew aboard Orion. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Orion"
+                        ],
+                        "location": "Operations and Checkout Building",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230602-PH-GEB01-0056",
+                        "photographer": "NASA/Glenn Benson",
+                        "title": "OpComm Delivery For Orion Artemis II",
+                        "album": [
+                            "Artemis_II"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0056/KSC-20230602-PH-GEB01-0056~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0019/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2023-06-02T00:00:00Z",
+                        "description": "Inside the high bay of the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida, technicians assemble on the Optical Communications System for the Artemis II mission on June 2, 2023. Optical communications is the latest space communications technology that is able to provide data rates as much as a hundred times higher than current systems. This will allow astronauts to send and receive ultra-high-definition video from the surface of the Moon or other planets such as Mars. Artemis II will be the first Artemis mission flying crew aboard Orion. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Orion"
+                        ],
+                        "location": "Operations and Checkout Building",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230602-PH-GEB01-0019",
+                        "photographer": "NASA/Glenn Benson",
+                        "title": "OpComm Delivery For Orion Artemis II",
+                        "album": [
+                            "Artemis_II"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0019/KSC-20230602-PH-GEB01-0019~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0004/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2023-06-02T00:00:00Z",
+                        "description": "Inside the high bay of the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida, technicians work on the Optical Communications System for the Artemis II mission on June 2, 2023. Optical communications is the latest space communications technology that is able to provide data rates as much as a hundred times higher than current systems. This will allow astronauts to send and receive ultra-high-definition video from the surface of the Moon or other planets such as Mars. Artemis II will be the first Artemis mission flying crew aboard Orion.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Orion"
+                        ],
+                        "location": "Operations and Checkout Building",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230602-PH-GEB01-0004",
+                        "photographer": "NASA/Glenn Benson",
+                        "title": "OpComm Delivery For Orion Artemis II",
+                        "album": [
+                            "Artemis_II"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0004/KSC-20230602-PH-GEB01-0004~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0035/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2023-06-02T00:00:00Z",
+                        "description": "Inside the high bay of the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida, technicians assemble on the Optical Communications System for the Artemis II mission on June 2, 2023. Optical communications is the latest space communications technology that is able to provide data rates as much as a hundred times higher than current systems. This will allow astronauts to send and receive ultra-high-definition video from the surface of the Moon or other planets such as Mars. Artemis II will be the first Artemis mission flying crew aboard Orion. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Orion"
+                        ],
+                        "location": "Operations and Checkout Building",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230602-PH-GEB01-0035",
+                        "photographer": "NASA/Glenn Benson",
+                        "title": "OpComm Delivery For Orion Artemis II",
+                        "album": [
+                            "Artemis_II"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0035/KSC-20230602-PH-GEB01-0035~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0023/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2023-06-02T00:00:00Z",
+                        "description": "Inside the high bay of the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida, technicians assemble on the Optical Communications System for the Artemis II mission on June 2, 2023. Optical communications is the latest space communications technology that is able to provide data rates as much as a hundred times higher than current systems. This will allow astronauts to send and receive ultra-high-definition video from the surface of the Moon or other planets such as Mars. Artemis II will be the first Artemis mission flying crew aboard Orion. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Orion"
+                        ],
+                        "location": "Operations and Checkout Building",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230602-PH-GEB01-0023",
+                        "photographer": "NASA/Glenn Benson",
+                        "title": "OpComm Delivery For Orion Artemis II",
+                        "album": [
+                            "Artemis_II"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0023/KSC-20230602-PH-GEB01-0023~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0005/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2023-06-02T00:00:00Z",
+                        "description": "Inside the high bay of the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida, technicians assemble on the Optical Communications System for the Artemis II mission on June 2, 2023. Optical communications is the latest space communications technology that is able to provide data rates as much as a hundred times higher than current systems. This will allow astronauts to send and receive ultra-high-definition video from the surface of the Moon or other planets such as Mars. Artemis II will be the first Artemis mission flying crew aboard Orion. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Orion"
+                        ],
+                        "location": "Operations and Checkout Building",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230602-PH-GEB01-0005",
+                        "photographer": "NASA/Glenn Benson",
+                        "title": "OpComm Delivery For Orion Artemis II",
+                        "album": [
+                            "Artemis_II"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0005/KSC-20230602-PH-GEB01-0005~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0010/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2023-06-02T00:00:00Z",
+                        "description": "A close-up view of one of the parts of the Optical Communications System for the Artemis II mission inside the Neil Armstrong Operations and Checkout Building high bay on June 2, 2023. Optical communications is the latest space communications technology that is able to provide data rates as much as a hundred times higher than current systems. This will allow astronauts to send and receive ultra-high-definition video from the surface of the Moon or other planets such as Mars. Artemis II will be the first Artemis mission flying crew aboard Orion. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Orion"
+                        ],
+                        "location": "Operations and Checkout Building",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230602-PH-GEB01-0010",
+                        "photographer": "NASA/Glenn Benson",
+                        "title": "OpComm Delivery For Orion Artemis II",
+                        "album": [
+                            "Artemis_II"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230602-PH-GEB01-0010/KSC-20230602-PH-GEB01-0010~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220606-PH-KLS01_0015_/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Artemis II Orion Hardware",
+                        "photographer": "NASA/Kim Shiflett",
+                        "location": "O&C",
+                        "nasa_id": "KSC-20220606-PH-KLS01_0015_",
+                        "media_type": "image",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Orion",
+                            "Capsule",
+                            "Crew Module"
+                        ],
+                        "date_created": "2022-06-06T00:00:00Z",
+                        "description": "Technicians inside the Neil Armstrong Operations and Checkout Building power on the Orion crew module for the Artemis II mission for the first time at NASA’s Kennedy Space Center in Florida on May 27, 2022. The capsule will carry astronauts on a trip around the Moon during the first crewed Artemis flight, helping set the stage for future lunar landings. Through Artemis, NASA will land the first woman and the first person of color on the Moon and establish long-term lunar exploration in preparation for missions to Mars."
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220606-PH-KLS01_0015_/KSC-20220606-PH-KLS01_0015_~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20210324-PH-JBS01_0151/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Artemis II Rainbird Testing",
+                        "photographer": "NASA/Ben Smegelsky",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "EGS",
+                            "VAB"
+                        ],
+                        "location": "VAB Perimeter",
+                        "nasa_id": "KSC-20210324-PH-JBS01_0151",
+                        "media_type": "image",
+                        "date_created": "2021-03-24T00:00:00Z",
+                        "description": "IOP/SS Prototype Testing outside the VAB for Artemis II."
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20210324-PH-JBS01_0151/KSC-20210324-PH-JBS01_0151~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220316-PH-KLS01_0277/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Artemis Summit Speakers - OSTEM",
+                        "photographer": "NASA/Kim Shiflett",
+                        "location": "OSB II; VAB",
+                        "nasa_id": "KSC-20220316-PH-KLS01_0277",
+                        "media_type": "image",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis Summit",
+                            "OSTEM"
+                        ],
+                        "date_created": "2022-03-16T00:00:00Z",
+                        "description": "U.S. Dept. of Education Deputy Secretary Cindy Marten signs the floor of the Lunabotics arena at the Center for Space Education at NASA’s Kennedy Space Center Visitor Complex in Florida on March 16, 2022. The LUNABOTICS competition is an engineering exercise that challenges college students to develop a lunar excavator as part of NASA’s Artemis student challenges. Marten was at Kennedy Space Center to address NASA’s national partners and guests during the one-day Artemis Summit."
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220316-PH-KLS01_0277/KSC-20220316-PH-KLS01_0277~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220805-PH-KLS01_0001/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-05T00:00:00Z",
+                        "description": "Melissa Jones, NASA Landing and Recovery Director for Exploration Ground Systems, participates in an Artemis I detailed mission briefing inside the Press Site auditorium at NASA’s Kennedy Space Center in Florida on Aug. 5, 2022. Jones leads the Artemis I Recovery Team partnered with the U.S. Navy that will recover the Artemis I Orion crew module from the Pacific Ocean after splashdown. Also participating in the briefing from NASA’s Johnson Space Center were Debbie Korth, Orion program deputy manager; Rick LaBrode, lead Artemis I flight director; Judd Frieling, Artemis I ascent/entry flight director; Reid Wiseman, chief astronaut; and Philippe Deloo, Orion European Service Module program manager, European Space Agency. The first in an increasingly complex series of missions, Artemis I is an uncrewed flight test to test the Space Launch System rocket and Orion spacecraft as an integrated system prior to crewed flights to the Moon. Through Artemis, NASA will land the first woman and first person of color on the lunar surface, paving the way for long-term lunar presence and serving as a steppingstone before venturing to Mars.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Melissa Jones",
+                            "Mission Briefing"
+                        ],
+                        "location": "KSCTV Auditorium",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220805-PH-KLS01_0001",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Mission Briefing from JSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220805-PH-KLS01_0001/KSC-20220805-PH-KLS01_0001~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220805-PH-KLS01_0014/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-05T00:00:00Z",
+                        "description": "Melissa Jones, NASA Landing and Recovery Director for Exploration Ground Systems, participates in an Artemis I detailed mission briefing inside the Press Site auditorium at NASA’s Kennedy Space Center in Florida on Aug. 5, 2022. Jones leads the Artemis I Recovery Team partnered with the U.S. Navy that will recover the Artemis I Orion crew module from the Pacific Ocean after splashdown. Also participating in the briefing from NASA’s Johnson Space Center were Debbie Korth, Orion program deputy manager; Rick LaBrode, lead Artemis I flight director; Judd Frieling, Artemis I ascent/entry flight director; Reid Wiseman, chief astronaut; and Philippe Deloo, Orion European Service Module program manager, European Space Agency. The first in an increasingly complex series of missions, Artemis I is an uncrewed flight test to test the Space Launch System rocket and Orion spacecraft as an integrated system prior to crewed flights to the Moon. Through Artemis, NASA will land the first woman and first person of color on the lunar surface, paving the way for long-term lunar presence and serving as a steppingstone before venturing to Mars.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Melissa Jones",
+                            "Mission Briefing"
+                        ],
+                        "location": "KSCTV Auditorium",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220805-PH-KLS01_0014",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Mission Briefing from JSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220805-PH-KLS01_0014/KSC-20220805-PH-KLS01_0014~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220923-PH-FMX01_0041/collection.json",
+                "data": [
+                    {
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ],
+                        "center": "KSC",
+                        "date_created": "2022-09-23T00:00:00Z",
+                        "description": "Artemis I team members conduct the Artemis I launch pre-test briefing on Sept. 23, 2022, at NASA’s Kennedy Space Center in Florida. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Pre-Task Briefing",
+                            "Leadership",
+                            "OSB II",
+                            "EGS"
+                        ],
+                        "location": "OSB II",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220923-PH-FMX01_0041",
+                        "photographer": "NASA/Frank Michaux",
+                        "title": "Artemis I Pre-Task Briefing"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220923-PH-FMX01_0041/KSC-20220923-PH-FMX01_0041~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220808-PH-FMX01_0002/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-08T00:00:00Z",
+                        "description": "The Artemis I Orion spacecraft, secured on the Space Launch System and enclosed in its launch abort system, is in view high up in High Bay 3 of the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Aug. 8, 2022. Artemis I will provide a foundation for human deep space exploration and demonstrate NASA’s capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the Space Launch System rocket and Orion spacecraft’s integrated systems before crewed missions. Under Artemis, NASA aims to land the first woman and first person of color on the Moon and establish sustainable lunar exploration.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Orion",
+                            "SLS",
+                            "Space Launch System"
+                        ],
+                        "location": "VAB",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220808-PH-FMX01_0002",
+                        "photographer": "NASA/Frank Michaux",
+                        "title": "Artemis I SLS Beauty Shots",
+                        "album": [
+                            "Artemis_I_Rollout_for_Launch"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220808-PH-FMX01_0002/KSC-20220808-PH-FMX01_0002~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220808-PH-FMX01_0044/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-08T00:00:00Z",
+                        "description": "Inside High Bay 3 of the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida, the NASA worm logo is in view on one of two solid rocket boosters for the Artemis I Space Launch System on Aug. 8, 2022. Artemis I will provide a foundation for human deep space exploration and demonstrate NASA’s capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the Space Launch System rocket and Orion spacecraft’s integrated systems before crewed missions. Under Artemis, NASA aims to land the first woman and first person of color on the Moon and establish sustainable lunar exploration.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Orion",
+                            "SLS",
+                            "Space Launch System"
+                        ],
+                        "location": "VAB",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220808-PH-FMX01_0044",
+                        "photographer": "NASA/Frank Michaux",
+                        "title": "Artemis I SLS Beauty Shots",
+                        "album": [
+                            "Artemis_I_Rollout_for_Launch"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220808-PH-FMX01_0044/KSC-20220808-PH-FMX01_0044~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230106-PH-GEB01_0005/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2023-01-06T00:00:00Z",
+                        "description": "The Artemis flag is removed from NASA News Center property at the agency’s Kennedy Space Center in Florida on Jan. 6, 2023, following the successful Artemis I mission. At left is former Exploration Ground Systems (EGS) Senior Technical Integration Manager Phil Weber, joined by former EGS Manager Mike Bolger. Both men served in their respective roles during Artemis I, retiring at the end of 2022. NASA’s Space Launch System (SLS) rocket and Orion spacecraft lifted off from Kennedy’s Launch Complex 39B on Nov. 16, 2022. Orion splashed down in the Pacific Ocean on Dec. 11 and arrived back at Kennedy on Dec. 30. Artemis I sets the stage for the next mission of SLS and Orion to fly crew around the Moon on Artemis II.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "KSC",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "LC 39 Press Site",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230106-PH-GEB01_0005",
+                        "photographer": "NASA/Glenn Benson",
+                        "title": "Artemis Flag Removal at LC 39 Press Site",
+                        "album": [
+                            "Artemis_I"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230106-PH-GEB01_0005/KSC-20230106-PH-GEB01_0005~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230106-PH-GEB01_0035/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2023-01-06T00:00:00Z",
+                        "description": "The Artemis flag is removed from NASA News Center property at the agency’s Kennedy Space Center in Florida on Jan. 6, 2023, following the successful Artemis I mission. At left is former Exploration Ground Systems (EGS) Senior Technical Integration Manager Phil Weber, joined by former EGS Manager Mike Bolger. Both men served in their respective roles during Artemis I, retiring at the end of 2022. NASA’s Space Launch System (SLS) rocket and Orion spacecraft lifted off from Kennedy’s Launch Complex 39B on Nov. 16, 2022. Orion splashed down in the Pacific Ocean on Dec. 11 and arrived back at Kennedy on Dec. 30. Artemis I sets the stage for the next mission of SLS and Orion to fly crew around the Moon on Artemis II.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "KSC",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "LC 39 Press Site",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230106-PH-GEB01_0035",
+                        "photographer": "NASA/Glenn Benson",
+                        "title": "Artemis Flag Removal at LC 39 Press Site",
+                        "album": [
+                            "Artemis_I"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230106-PH-GEB01_0035/KSC-20230106-PH-GEB01_0035~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230106-PH-GEB01_0009/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2023-01-06T00:00:00Z",
+                        "description": "The Artemis flag is removed from NASA News Center property at the agency’s Kennedy Space Center in Florida on Jan. 6, 2023, following the successful Artemis I mission. At left is former Exploration Ground Systems (EGS) Senior Technical Integration Manager Phil Weber, joined by former EGS Manager Mike Bolger. Both men served in their respective roles during Artemis I, retiring at the end of 2022. NASA’s Space Launch System (SLS) rocket and Orion spacecraft lifted off from Kennedy’s Launch Complex 39B on Nov. 16, 2022. Orion splashed down in the Pacific Ocean on Dec. 11 and arrived back at Kennedy on Dec. 30. Artemis I sets the stage for the next mission of SLS and Orion to fly crew around the Moon on Artemis II.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "KSC",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "LC 39 Press Site",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230106-PH-GEB01_0009",
+                        "photographer": "NASA/Glenn Benson",
+                        "title": "Artemis Flag Removal at LC 39 Press Site",
+                        "album": [
+                            "Artemis_I"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230106-PH-GEB01_0009/KSC-20230106-PH-GEB01_0009~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC_20221115_Artemis I on pad-1/collection.json",
+                "data": [
+                    {
+                        "center": "MSFC",
+                        "date_created": "2022-11-16T00:00:00Z",
+                        "description": "NASA’s Space Launch System (SLS) rocket with the Orion spacecraft atop launches the agency’s Artemis I flight test, Wednesday, Nov. 16 from Launch Complex 39B at NASA’s Kennedy Space Center in Florida. The Moon rocket and spacecraft lifted off at 1:47 a.m. ET. The Artemis I mission is the first integrated test of the agency’s deep space exploration systems: the Space Launch System rocket, Orion spacecraft, and supporting ground systems. The mission is the first in a series of increasingly complex missions to the Moon. With Artemis missions, NASA will land the first woman and first person of color on the Moon, using innovative technologies to explore more of the lunar surface than ever before.",
+                        "description_508": "NASA’s Space Launch System (SLS) rocket with the Orion spacecraft atop launches the agency’s Artemis I flight test, Wednesday, Nov. 16 from Launch Complex 39B at NASA’s Kennedy Space Center in Florida. The Moon rocket and spacecraft lifted off at 1:47 a.m. ET. The Artemis I mission is the first integrated test of the agency’s deep space exploration systems: the Space Launch System rocket, Orion spacecraft, and supporting ground systems. The mission is the first in a series of increasingly complex missions to the Moon. With Artemis missions, NASA will land the first woman and first person of color on the Moon, using innovative technologies to explore more of the lunar surface than ever before.",
+                        "keywords": [
+                            "Artemis",
+                            "KSC",
+                            "MAF",
+                            "Michoud",
+                            "NASA",
+                            "Rocket",
+                            "sls"
+                        ],
+                        "location": "Kennedy Space Center",
+                        "media_type": "image",
+                        "nasa_id": "KSC_20221115_Artemis I on pad-1",
+                        "photographer": "STEVEN SEIPEL",
+                        "title": "Artemis I Launch",
+                        "album": [
+                            "Artemis_I_Launch"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC_20221115_Artemis I on pad-1/KSC_20221115_Artemis I on pad-1~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC_20221115_Artemis I on pad-2/collection.json",
+                "data": [
+                    {
+                        "center": "MSFC",
+                        "date_created": "2022-11-16T00:00:00Z",
+                        "description": "NASA’s Space Launch System (SLS) rocket with the Orion spacecraft atop launches the agency’s Artemis I flight test, Wednesday, Nov. 16 from Launch Complex 39B at NASA’s Kennedy Space Center in Florida. The Moon rocket and spacecraft lifted off at 1:47 a.m. ET. The Artemis I mission is the first integrated test of the agency’s deep space exploration systems: the Space Launch System rocket, Orion spacecraft, and supporting ground systems. The mission is the first in a series of increasingly complex missions to the Moon. With Artemis missions, NASA will land the first woman and first person of color on the Moon, using innovative technologies to explore more of the lunar surface than ever before.",
+                        "description_508": "NASA’s Space Launch System (SLS) rocket with the Orion spacecraft atop launches the agency’s Artemis I flight test, Wednesday, Nov. 16 from Launch Complex 39B at NASA’s Kennedy Space Center in Florida. The Moon rocket and spacecraft lifted off at 1:47 a.m. ET. The Artemis I mission is the first integrated test of the agency’s deep space exploration systems: the Space Launch System rocket, Orion spacecraft, and supporting ground systems. The mission is the first in a series of increasingly complex missions to the Moon. With Artemis missions, NASA will land the first woman and first person of color on the Moon, using innovative technologies to explore more of the lunar surface than ever before.",
+                        "keywords": [
+                            "Artemis",
+                            "KSC",
+                            "MAF",
+                            "Michoud",
+                            "NASA",
+                            "Rocket",
+                            "sls"
+                        ],
+                        "location": "Kennedy Space Center",
+                        "media_type": "image",
+                        "nasa_id": "KSC_20221115_Artemis I on pad-2",
+                        "photographer": "STEVEN SEIPEL",
+                        "title": "Artemis I Launch",
+                        "album": [
+                            "Artemis_I_Launch"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC_20221115_Artemis I on pad-2/KSC_20221115_Artemis I on pad-2~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS01_0003/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "Artemis I managers conduct a Flight Readiness Review (FRR) on Aug. 22, 2022, at NASA’s Kennedy Space Center in Florida. The FRR is an in-depth assessment of the readiness of the agency’s Space Launch System and Orion spacecraft to support the uncrewed flight of Artemis I on its mission beyond the Moon and return to Earth. The meeting will conclude later in the day with a poll of all managers. Artemis I is scheduled to launch at 8:33 a.m. EDT on Aug. 29, 2022, from Kennedy’s Launch Complex 39B. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "ESD",
+                            "FRR",
+                            "Launch",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "OSB II ",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-KLS01_0003",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Flight Readiness Review",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS01_0003/KSC-20220822-PH-KLS01_0003~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS01_0042/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "Artemis I managers conduct a Flight Readiness Review (FRR) on Aug. 22, 2022, at NASA’s Kennedy Space Center in Florida. The FRR is an in-depth assessment of the readiness of the agency’s Space Launch System and Orion spacecraft to support the uncrewed flight of Artemis I on its mission beyond the Moon and return to Earth. The meeting will conclude later in the day with a poll of all managers. Artemis I is scheduled to launch at 8:33 a.m. EDT on Aug. 29, 2022, from Kennedy’s Launch Complex 39B. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "ESD",
+                            "FRR",
+                            "Launch",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "OSB II ",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-KLS01_0042",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Flight Readiness Review",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS01_0042/KSC-20220822-PH-KLS01_0042~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS01_0001/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "Artemis I managers conduct a Flight Readiness Review (FRR) on Aug. 22, 2022, at NASA’s Kennedy Space Center in Florida. The FRR is an in-depth assessment of the readiness of the agency’s Space Launch System and Orion spacecraft to support the uncrewed flight of Artemis I on its mission beyond the Moon and return to Earth. The meeting will conclude later in the day with a poll of all managers. Artemis I is scheduled to launch at 8:33 a.m. EDT on Aug. 29, 2022, from Kennedy’s Launch Complex 39B. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "ESD",
+                            "FRR",
+                            "Launch",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "OSB II ",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-KLS01_0001",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Flight Readiness Review",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS01_0001/KSC-20220822-PH-KLS01_0001~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0040/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "Artemis I managers conduct a Flight Readiness Review (FRR) on Aug. 22, 2022, at NASA’s Kennedy Space Center in Florida. The FRR is an in-depth assessment of the readiness of the agency’s Space Launch System and Orion spacecraft to support the uncrewed flight of Artemis I on its mission beyond the Moon and return to Earth. The meeting will conclude later in the day with a poll of all managers. Artemis I is scheduled to launch at 8:33 a.m. EDT on Aug. 29, 2022, from Kennedy’s Launch Complex 39B. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "ESD",
+                            "FRR",
+                            "Launch",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "OSB II ",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-KLS02_0040",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Flight Readiness Review",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0040/KSC-20220822-PH-KLS02_0040~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS01_0120/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "Artemis I managers conduct a Flight Readiness Review (FRR) on Aug. 22, 2022, at NASA’s Kennedy Space Center in Florida. The FRR is an in-depth assessment of the readiness of the agency’s Space Launch System and Orion spacecraft to support the uncrewed flight of Artemis I on its mission beyond the Moon and return to Earth. The meeting will conclude later in the day with a poll of all managers. Artemis I is scheduled to launch at 8:33 a.m. EDT on Aug. 29, 2022, from Kennedy’s Launch Complex 39B. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "ESD",
+                            "FRR",
+                            "Launch",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "OSB II ",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-KLS01_0120",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Flight Readiness Review",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS01_0120/KSC-20220822-PH-KLS01_0120~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0030/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "Artemis I managers conduct a Flight Readiness Review (FRR) on Aug. 22, 2022, at NASA’s Kennedy Space Center in Florida. The FRR is an in-depth assessment of the readiness of the agency’s Space Launch System and Orion spacecraft to support the uncrewed flight of Artemis I on its mission beyond the Moon and return to Earth. The meeting will conclude later in the day with a poll of all managers. Artemis I is scheduled to launch at 8:33 a.m. EDT on Aug. 29, 2022, from Kennedy’s Launch Complex 39B. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "ESD",
+                            "FRR",
+                            "Launch",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "OSB II ",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-KLS02_0030",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Flight Readiness Review",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0030/KSC-20220822-PH-KLS02_0030~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0031/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "Artemis I managers conduct a Flight Readiness Review (FRR) on Aug. 22, 2022, at NASA’s Kennedy Space Center in Florida. The FRR is an in-depth assessment of the readiness of the agency’s Space Launch System and Orion spacecraft to support the uncrewed flight of Artemis I on its mission beyond the Moon and return to Earth. The meeting will conclude later in the day with a poll of all managers. Artemis I is scheduled to launch at 8:33 a.m. EDT on Aug. 29, 2022, from Kennedy’s Launch Complex 39B. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "ESD",
+                            "FRR",
+                            "Launch",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "OSB II ",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-KLS02_0031",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Flight Readiness Review",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0031/KSC-20220822-PH-KLS02_0031~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0039/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "Artemis I managers conduct a Flight Readiness Review (FRR) on Aug. 22, 2022, at NASA’s Kennedy Space Center in Florida. The FRR is an in-depth assessment of the readiness of the agency’s Space Launch System and Orion spacecraft to support the uncrewed flight of Artemis I on its mission beyond the Moon and return to Earth. The meeting will conclude later in the day with a poll of all managers. Artemis I is scheduled to launch at 8:33 a.m. EDT on Aug. 29, 2022, from Kennedy’s Launch Complex 39B. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "ESD",
+                            "FRR",
+                            "Launch",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "OSB II ",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-KLS02_0039",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Flight Readiness Review",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0039/KSC-20220822-PH-KLS02_0039~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/NHQ202306210010/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-06-21T00:00:00Z",
+                        "description": "Ecuador Minister of Foreign Affairs and Human Mobility Gustavo Manrique Miranda signs the Artemis Accords, Wednesday, June 21, 2023, at the Embassy of Ecuador in Washington. Ecuador is the twenty sixth country to sign the Artemis Accords, which establish a practical set of principles to guide space exploration cooperation among nations participating in NASA’s Artemis program. Photo Credit: (NASA/Keegan Barber)",
+                        "keywords": [
+                            "Artemis Accords",
+                            "DC",
+                            "Ecuador",
+                            "Washington"
+                        ],
+                        "location": "Embassy of Ecuador",
+                        "media_type": "image",
+                        "nasa_id": "NHQ202306210010",
+                        "photographer": "NASA/Keegan Barber",
+                        "title": "Ecuador Artemis Accords Signing",
+                        "album": [
+                            "20230621_Ecuador_Artemis_Accords_Signing"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/NHQ202306210010/NHQ202306210010~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/NHQ202306210011/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-06-21T00:00:00Z",
+                        "description": "Ecuador Minister of Foreign Affairs and Human Mobility Gustavo Manrique Miranda signs the Artemis Accords, Wednesday, June 21, 2023, at the Embassy of Ecuador in Washington. Ecuador is the twenty sixth country to sign the Artemis Accords, which establish a practical set of principles to guide space exploration cooperation among nations participating in NASA’s Artemis program. Photo Credit: (NASA/Keegan Barber)",
+                        "keywords": [
+                            "Artemis Accords",
+                            "DC",
+                            "Ecuador",
+                            "Washington"
+                        ],
+                        "location": "Embassy of Ecuador",
+                        "media_type": "image",
+                        "nasa_id": "NHQ202306210011",
+                        "photographer": "NASA/Keegan Barber",
+                        "title": "Ecuador Artemis Accords Signing",
+                        "album": [
+                            "20230621_Ecuador_Artemis_Accords_Signing"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/NHQ202306210011/NHQ202306210011~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/NHQ202306210007/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-06-21T00:00:00Z",
+                        "description": "Ecuador Minister of Foreign Affairs and Human Mobility Gustavo Manrique Miranda, center, delivers remarks during an Artemis Accords signing ceremony Wednesday, June 21, 2023, at the Embassy of Ecuador in Washington. Ecuador is the twenty sixth country to sign the Artemis Accords, which establish a practical set of principles to guide space exploration cooperation among nations participating in NASA’s Artemis program. Photo Credit: (NASA/Keegan Barber)",
+                        "keywords": [
+                            "Artemis Accords",
+                            "DC",
+                            "Ecuador",
+                            "Washington"
+                        ],
+                        "location": "Embassy of Ecuador",
+                        "media_type": "image",
+                        "nasa_id": "NHQ202306210007",
+                        "photographer": "NASA/Keegan Barber",
+                        "title": "Ecuador Artemis Accords Signing",
+                        "album": [
+                            "20230621_Ecuador_Artemis_Accords_Signing"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/NHQ202306210007/NHQ202306210007~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/NHQ202306210001/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-06-21T00:00:00Z",
+                        "description": "Ambassador of Ecuador to the United States Ivonne A-Baki, left, delivers remarks during an Artemis Accords signing ceremony Wednesday, June 21, 2023, at the Embassy of Ecuador in Washington. Ecuador is the twenty sixth country to sign the Artemis Accords, which establish a practical set of principles to guide space exploration cooperation among nations participating in NASA’s Artemis program. Photo Credit: (NASA/Keegan Barber)",
+                        "keywords": [
+                            "Artemis Accords",
+                            "DC",
+                            "Ecuador",
+                            "Washington"
+                        ],
+                        "location": "Embassy of Ecuador",
+                        "media_type": "image",
+                        "nasa_id": "NHQ202306210001",
+                        "photographer": "NASA/Keegan Barber",
+                        "title": "Ecuador Artemis Accords Signing",
+                        "album": [
+                            "20230621_Ecuador_Artemis_Accords_Signing"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/NHQ202306210001/NHQ202306210001~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/NHQ202306210009/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-06-21T00:00:00Z",
+                        "description": "Ecuador Minster of Production, Foreign Trade, Investments and Fisheries Julio José Prado, left, delivers remarks during an Artemis Accords signing ceremony Wednesday, June 21, 2023, at the Embassy of Ecuador in Washington. Ecuador is the twenty sixth country to sign the Artemis Accords, which establish a practical set of principles to guide space exploration cooperation among nations participating in NASA’s Artemis program. Photo Credit: (NASA/Keegan Barber)",
+                        "keywords": [
+                            "Artemis Accords",
+                            "DC",
+                            "Ecuador",
+                            "Washington"
+                        ],
+                        "location": "Embassy of Ecuador",
+                        "media_type": "image",
+                        "nasa_id": "NHQ202306210009",
+                        "photographer": "NASA/Keegan Barber",
+                        "title": "Ecuador Artemis Accords Signing",
+                        "album": [
+                            "20230621_Ecuador_Artemis_Accords_Signing"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/NHQ202306210009/NHQ202306210009~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/NHQ202306210008/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-06-21T00:00:00Z",
+                        "description": "Ecuador Minister of Foreign Affairs and Human Mobility Gustavo Manrique Miranda delivers remarks during an Artemis Accords signing ceremony Wednesday, June 21, 2023, at the Embassy of Ecuador in Washington. Ecuador is the twenty sixth country to sign the Artemis Accords, which establish a practical set of principles to guide space exploration cooperation among nations participating in NASA’s Artemis program. Photo Credit: (NASA/Keegan Barber)",
+                        "keywords": [
+                            "Artemis Accords",
+                            "DC",
+                            "Ecuador",
+                            "Washington"
+                        ],
+                        "location": "Embassy of Ecuador",
+                        "media_type": "image",
+                        "nasa_id": "NHQ202306210008",
+                        "photographer": "NASA/Keegan Barber",
+                        "title": "Ecuador Artemis Accords Signing",
+                        "album": [
+                            "20230621_Ecuador_Artemis_Accords_Signing"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/NHQ202306210008/NHQ202306210008~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/NHQ202306210006/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-06-21T00:00:00Z",
+                        "description": "U.S. Department of State Director of the Office of Space Affairs Valda Vikmanis Keller, right, delivers remarks during an Artemis Accords signing ceremony Wednesday, June 21, 2023, at the Embassy of Ecuador in Washington. Ecuador is the twenty sixth country to sign the Artemis Accords, which establish a practical set of principles to guide space exploration cooperation among nations participating in NASA’s Artemis program. Photo Credit: (NASA/Keegan Barber)",
+                        "keywords": [
+                            "Artemis Accords",
+                            "DC",
+                            "Ecuador",
+                            "Washington"
+                        ],
+                        "location": "Embassy of Ecuador",
+                        "media_type": "image",
+                        "nasa_id": "NHQ202306210006",
+                        "photographer": "NASA/Keegan Barber",
+                        "title": "Ecuador Artemis Accords Signing",
+                        "album": [
+                            "20230621_Ecuador_Artemis_Accords_Signing"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/NHQ202306210006/NHQ202306210006~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220120-PH-FMX01_0063/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Artemis II Flight Hardware",
+                        "photographer": "NASA/Frank Michaux",
+                        "location": "O&C",
+                        "nasa_id": "KSC-20220120-PH-FMX01_0063",
+                        "media_type": "image",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Artemis III",
+                            "CM",
+                            "CMA",
+                            "EGS",
+                            "Exploration Ground Systems",
+                            "Flight Hardware",
+                            "O&C",
+                            "Operations and Checkout Building",
+                            "Orion"
+                        ],
+                        "date_created": "2022-01-20T00:00:00Z",
+                        "description": "The newly painted Orion heatshield for NASA’s Artemis II mission is secured on a stand inside the high bay of the Neil A. Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida on Jan. 20, 2022. Lockheed Martin technicians are preparing the heat shield for installation on the Artemis II Orion crew module. Launching atop the Space Launch System, Artemis II will be the first mission to confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. "
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220120-PH-FMX01_0063/KSC-20220120-PH-FMX01_0063~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0005/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, technician Kenny Leidner with ASRC Federal, inspects AVCOAT block bonding on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0005",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0005/KSC-20200702-PH-ILW01_0005~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0006/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, technician Diamond ScharSenstine with ASRC Federal, inspects AVCOAT block bonding on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0006",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0006/KSC-20200702-PH-ILW01_0006~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0093/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, the AVOCAT block bonding is complete on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0093",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0093/KSC-20200702-PH-ILW01_0093~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0093_BW/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, the AVOCAT block bonding is complete on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0093_BW",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0093_BW/KSC-20200702-PH-ILW01_0093_BW~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0097/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, the AVOCAT block bonding is complete on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0097",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0097/KSC-20200702-PH-ILW01_0097~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0097_BW/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, the AVOCAT block bonding is complete on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0097_BW",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0097_BW/KSC-20200702-PH-ILW01_0097_BW~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0101/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, the AVCOAT block bonding is complete on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0101",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0101/KSC-20200702-PH-ILW01_0101~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0103/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, technician Darlene Beville with ASRC Federal, inspects AVCOAT block bonding on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0103",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0103/KSC-20200702-PH-ILW01_0103~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0002/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, Darlene Beville with ASRC Federal, inspects AVOCAT block bonding on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0002",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0002/KSC-20200702-PH-ILW01_0002~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0076/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, the AVCOAT block bonding is complete on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024. ",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0076",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0076/KSC-20200702-PH-ILW01_0076~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0102/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, technician Russ Novak with ASRC Federal, inspects AVCOAT block bonding on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0102",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0102/KSC-20200702-PH-ILW01_0102~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0116/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, the AVCOAT block bonding is complete on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0116",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0116/KSC-20200702-PH-ILW01_0116~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0003/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, technician Kenny Leidner with ASRC Federal, inspects AVCOAT block bonding on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0003",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0003/KSC-20200702-PH-ILW01_0003~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0069/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, the AVOCAT block bonding is complete on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0069",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0069/KSC-20200702-PH-ILW01_0069~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0069_BW/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, the AVOCAT block bonding is complete on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0069_BW",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0069_BW/KSC-20200702-PH-ILW01_0069_BW~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0072/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, the AVCOAT block bonding is complete on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0072",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0072/KSC-20200702-PH-ILW01_0072~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0078/collection.json",
+                "data": [
+                    {
+                        "description": "Inside the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, technician Russ Novak with ASRC Federal, inspects AVCOAT block bonding on the Artemis II heat shield on July 2, 2020. The heat shield is one of the most critical elements of Orion and will protect the capsule and astronauts during reentry through Earth’s atmosphere. Artemis II is the first crewed mission in a series of missions to the Moon and on to Mars. Artemis II will confirm all of the Orion spacecraft’s systems operate as designed in the actual environment of deep space with astronauts aboard. As part of the Artemis Program, NASA will send the first woman and next man to the Moon by 2024.",
+                        "title": "Artemis II Heat Shield",
+                        "photographer": "NASA/Isaac Watson",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Heatshield",
+                            "Mars",
+                            "Moon",
+                            "Moon to Mars",
+                            "O&C",
+                            "Orion"
+                        ],
+                        "location": "O&C Building",
+                        "nasa_id": "KSC-20200702-PH-ILW01_0078",
+                        "date_created": "2020-07-02T00:00:00Z",
+                        "media_type": "image",
+                        "center": "KSC"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20200702-PH-ILW01_0078/KSC-20200702-PH-ILW01_0078~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230324-PH-ILW01_0261/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2023-03-24T00:00:00Z",
+                        "description": "Artemis Launch Director Charlie Blackwell-Thompson, center, is inside Firing Room 1 of the Launch Control Center at NASA’s Kennedy Space Center in Florida during the inaugural Artemis I launch director awards and plaque ceremony on March 24, 2023. At left is Jeremy Graeber, Artemis assistant launch director. At right is Wes Mosedale, technical assistant to the launch director. Following tradition from the Apollo and Space Shuttle Programs, the Artemis I plaque was added to the wall in Firing Room 1 by Blackwell-Thompson. The first in a series of increasingly complex missions, Artemis I launched successfully from Kennedy’s Launch Pad 39B at 1:47 a.m. EST on Nov. 16, 2022. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Artemis launch team",
+                            "Firing Room 1",
+                            "KSC",
+                            "Kennedy Space Center",
+                            "LCC",
+                            "Launch Control Center",
+                            "award ceremony"
+                        ],
+                        "location": "Launch Control Center (LCC)",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230324-PH-ILW01_0261",
+                        "photographer": "NASA/Isaac Watson",
+                        "title": "Artemis I Launch Director and Plaque Award Ceremony",
+                        "album": [
+                            "Artemis_I",
+                            "Artemis_Launch_Team"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230324-PH-ILW01_0261/KSC-20230324-PH-ILW01_0261~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0036/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "Artemis I managers conduct a Flight Readiness Review (FRR) on Aug. 22, 2022, at NASA’s Kennedy Space Center in Florida. In view, standing, is Artemis I Launch Director Charlie Blackwell-Thompson. The FRR is an in-depth assessment of the readiness of the agency’s Space Launch System and Orion spacecraft to support the uncrewed flight of Artemis I on its mission beyond the Moon and return to Earth. The meeting will conclude later in the day with a poll of all managers. Artemis I is scheduled to launch at 8:33 a.m. EDT on Aug. 29, 2022, from Kennedy’s Launch Complex 39B. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "ESD",
+                            "FRR",
+                            "Launch",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "OSB II ",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-KLS02_0036",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Flight Readiness Review",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0036/KSC-20220822-PH-KLS02_0036~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0062/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "Artemis I managers conduct a Flight Readiness Review (FRR) on Aug. 22, 2022, at NASA’s Kennedy Space Center in Florida. In view is Artemis I Launch Director Charlie Blackwell-Thompson. The FRR is an in-depth assessment of the readiness of the agency’s Space Launch System and Orion spacecraft to support the uncrewed flight of Artemis I on its mission beyond the Moon and return to Earth. The meeting will conclude later in the day with a poll of all managers. Artemis I is scheduled to launch at 8:33 a.m. EDT on Aug. 29, 2022, from Kennedy’s Launch Complex 39B. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "ESD",
+                            "FRR",
+                            "Launch",
+                            "Orion",
+                            "SLS"
+                        ],
+                        "location": "OSB II ",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-KLS02_0062",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Flight Readiness Review",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-KLS02_0062/KSC-20220822-PH-KLS02_0062~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/DSC07878/collection.json",
+                "data": [
+                    {
+                        "center": "MSFC",
+                        "date_created": "2022-11-17T00:00:00Z",
+                        "description": "NASA’s Space Launch System (SLS) rocket with the Orion spacecraft atop launches the agency’s Artemis I flight test, Wednesday, Nov. 16 from Launch Complex 39B at NASA’s Kennedy Space Center in Florida. The Moon rocket and spacecraft lifted off at 1:47 a.m. ET. The Artemis I mission is the first integrated test of the agency’s deep space exploration systems: the Space Launch System rocket, Orion spacecraft, and supporting ground systems. The mission is the first in a series of increasingly complex missions to the Moon. With Artemis missions, NASA will land the first woman and first person of color on the Moon, using innovative technologies to explore more of the lunar surface than ever before.",
+                        "description_508": "NASA’s Space Launch System (SLS) rocket with the Orion spacecraft atop launches the agency’s Artemis I flight test, Wednesday, Nov. 16 from Launch Complex 39B at NASA’s Kennedy Space Center in Florida. The Moon rocket and spacecraft lifted off at 1:47 a.m. ET. The Artemis I mission is the first integrated test of the agency’s deep space exploration systems: the Space Launch System rocket, Orion spacecraft, and supporting ground systems. The mission is the first in a series of increasingly complex missions to the Moon. With Artemis missions, NASA will land the first woman and first person of color on the Moon, using innovative technologies to explore more of the lunar surface than ever before.",
+                        "keywords": [
+                            "Space Launch System",
+                            "SLS",
+                            "Artemis",
+                            "Launch",
+                            "NASA",
+                            "Marshall Space Flight Center",
+                            "rocket science",
+                            "launch vehicle",
+                            "rocket",
+                            "moon",
+                            "interview",
+                            "Artemis 1"
+                        ],
+                        "location": "Kennedy Space Center",
+                        "media_type": "image",
+                        "nasa_id": "DSC07878",
+                        "photographer": "Brandon Hancock",
+                        "title": "Artemis I Launch",
+                        "album": [
+                            "Artemis_I_Launch"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/DSC07878/DSC07878~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220318-PH-KLS04_0015/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-03-18T00:00:00Z",
+                        "description": "The Artemis Orion crew module test article (CMTA) is in view in the high bay inside the Launch Equipment Test Facility at NASA's Kennedy Space Center in Florida on March 18, 2022. The CMTA is used to practice recovery after splashdown of the Orion spacecraft to prepare for Artemis missions. Exploration Ground Systems leads recovery efforts. ",
+                        "keywords": [
+                            "Artemis",
+                            "CMTA",
+                            "EGS",
+                            "LETF",
+                            "recovery"
+                        ],
+                        "location": "LETF Highbay",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220318-PH-KLS04_0015",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis Recovery CMTA"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220318-PH-KLS04_0015/KSC-20220318-PH-KLS04_0015~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220318-PH-KLS04_0035/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-03-18T00:00:00Z",
+                        "description": "The Artemis Orion crew module test article (CMTA) is in view in the high bay inside the Launch Equipment Test Facility at NASA's Kennedy Space Center in Florida on March 18, 2022. The CMTA is used to practice recovery after splashdown of the Orion spacecraft to prepare for Artemis missions. Exploration Ground Systems leads recovery efforts. ",
+                        "keywords": [
+                            "Artemis",
+                            "CMTA",
+                            "EGS",
+                            "LETF",
+                            "recovery"
+                        ],
+                        "location": "LETF Highbay",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220318-PH-KLS04_0035",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis Recovery CMTA"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220318-PH-KLS04_0035/KSC-20220318-PH-KLS04_0035~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230324-PH-KLS01_0180/collection.json",
+                "data": [
+                    {
+                        "album": [
+                            "Artemis_I",
+                            "Artemis_Launch_Team"
+                        ],
+                        "center": "KSC",
+                        "date_created": "2023-03-24T00:00:00Z",
+                        "description": "Artemis Launch Director Charlie Blackwell-Thompson (left) acknowledged and honored members of the Artemis team during the inaugural Artemis Launch Director Awards, held March 24, 2023, inside Firing Room 1 of the Rocco A. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida. Award recipients included Assistant Launch Director Jeremy Graeber, who directly supports and assists Blackwell-Thompson during launch countdown operations. Artemis I launched successfully from Kennedy's Launch Pad 39B at 1:47 a.m. EST on Nov. 16, 2022.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Artemis launch team",
+                            "Kennedy Space Center",
+                            "Launch Control Center",
+                            "award ceremony"
+                        ],
+                        "location": "Firing Room 1, LCC",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230324-PH-KLS01_0180",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Launch Director and Plaque Award Ceremony"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230324-PH-KLS01_0180/KSC-20230324-PH-KLS01_0180~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230324-PH-KLS01_0094/collection.json",
+                "data": [
+                    {
+                        "album": [
+                            "Artemis_I",
+                            "Artemis_Launch_Team"
+                        ],
+                        "center": "KSC",
+                        "date_created": "2023-03-24T00:00:00Z",
+                        "description": "Artemis Launch Director Charlie Blackwell-Thompson (left) acknowledged and honored members of the Artemis team during the inaugural Artemis Launch Director Awards, held March 24, 2023, inside Firing Room 1 of the Rocco A. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida. Award recipients included members of the crawler transporter team, which using Crawler-Transporter 2, carried the agency’s mobile launcher with the Space Launch System rocket and Orion spacecraft 4.2 miles from the Vehicle Assembly Building to Launch Pad 39B for the launch of Artemis I. The first in a series of increasingly complex missions, Artemis I launched successfully at 1:47 a.m. EST on Nov. 16, 2022.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Artemis launch team",
+                            "Kennedy Space Center",
+                            "Launch Control Center",
+                            "award ceremony"
+                        ],
+                        "location": "Firing Room 1, LCC",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230324-PH-KLS01_0094",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Launch Director and Plaque Award Ceremony"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230324-PH-KLS01_0094/KSC-20230324-PH-KLS01_0094~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20230324-PH-KLS01_0098/collection.json",
+                "data": [
+                    {
+                        "album": [
+                            "Artemis_I",
+                            "Artemis_Launch_Team"
+                        ],
+                        "center": "KSC",
+                        "date_created": "2023-03-24T00:00:00Z",
+                        "description": "Artemis Launch Director Charlie Blackwell-Thompson (center) acknowledged and honored members of the Artemis team during the inaugural Artemis Launch Director Awards, held March 24, 2023, inside Firing Room 1 of the Rocco A. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida. Award recipients included members of the crawler transporter team, which using Crawler-Transporter 2, carried the agency’s mobile launcher with the Space Launch System rocket and Orion spacecraft 4.2 miles from the Vehicle Assembly Building to Launch Pad 39B for the launch of Artemis I. The first in a series of increasingly complex missions, Artemis I launched successfully at 1:47 a.m. EST on Nov. 16, 2022.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Artemis launch team",
+                            "Kennedy Space Center",
+                            "Launch Control Center",
+                            "award ceremony"
+                        ],
+                        "location": "Firing Room 1, LCC",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20230324-PH-KLS01_0098",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Launch Director and Plaque Award Ceremony"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20230324-PH-KLS01_0098/KSC-20230324-PH-KLS01_0098~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/NHQ202306210002/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-06-21T00:00:00Z",
+                        "description": "NASA Associate Administrator for International and Interagency Relations Karen Feldstein, right, delivers remarks during an Artemis Accords signing ceremony Wednesday, June 21, 2023, at the Embassy of Ecuador in Washington. Ecuador is the twenty sixth country to sign the Artemis Accords, which establish a practical set of principles to guide space exploration cooperation among nations participating in NASA’s Artemis program. Photo Credit: (NASA/Keegan Barber)",
+                        "keywords": [
+                            "Artemis Accords",
+                            "DC",
+                            "Ecuador",
+                            "Karen Feldstein",
+                            "Washington"
+                        ],
+                        "location": "Embassy of Ecuador",
+                        "media_type": "image",
+                        "nasa_id": "NHQ202306210002",
+                        "photographer": "NASA/Keegan Barber",
+                        "title": "Ecuador Artemis Accords Signing",
+                        "album": [
+                            "20230621_Ecuador_Artemis_Accords_Signing"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/NHQ202306210002/NHQ202306210002~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/NHQ202306210004/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-06-21T00:00:00Z",
+                        "description": "NASA Associate Administrator for International and Interagency Relations Karen Feldstein, right, delivers remarks during an Artemis Accords signing ceremony Wednesday, June 21, 2023, at the Embassy of Ecuador in Washington. Ecuador is the twenty sixth country to sign the Artemis Accords, which establish a practical set of principles to guide space exploration cooperation among nations participating in NASA’s Artemis program. Photo Credit: (NASA/Keegan Barber)",
+                        "keywords": [
+                            "Artemis Accords",
+                            "DC",
+                            "Ecuador",
+                            "Karen Feldstein",
+                            "Washington"
+                        ],
+                        "location": "Embassy of Ecuador",
+                        "media_type": "image",
+                        "nasa_id": "NHQ202306210004",
+                        "photographer": "NASA/Keegan Barber",
+                        "title": "Ecuador Artemis Accords Signing",
+                        "album": [
+                            "20230621_Ecuador_Artemis_Accords_Signing"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/NHQ202306210004/NHQ202306210004~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/NHQ202306210003/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-06-21T00:00:00Z",
+                        "description": "NASA Associate Administrator for International and Interagency Relations Karen Feldstein, right, delivers remarks during an Artemis Accords signing ceremony Wednesday, June 21, 2023, at the Embassy of Ecuador in Washington. Ecuador is the twenty sixth country to sign the Artemis Accords, which establish a practical set of principles to guide space exploration cooperation among nations participating in NASA’s Artemis program. Photo Credit: (NASA/Keegan Barber)",
+                        "keywords": [
+                            "Artemis Accords",
+                            "DC",
+                            "Ecuador",
+                            "Karen Feldstein",
+                            "Washington"
+                        ],
+                        "location": "Embassy of Ecuador",
+                        "media_type": "image",
+                        "nasa_id": "NHQ202306210003",
+                        "photographer": "NASA/Keegan Barber",
+                        "title": "Ecuador Artemis Accords Signing",
+                        "album": [
+                            "20230621_Ecuador_Artemis_Accords_Signing"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/NHQ202306210003/NHQ202306210003~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/NHQ202306210005/collection.json",
+                "data": [
+                    {
+                        "center": "HQ",
+                        "date_created": "2023-06-21T00:00:00Z",
+                        "description": "NASA Associate Administrator for International and Interagency Relations Karen Feldstein delivers remarks during an Artemis Accords signing ceremony Wednesday, June 21, 2023, at the Embassy of Ecuador in Washington. Ecuador is the twenty sixth country to sign the Artemis Accords, which establish a practical set of principles to guide space exploration cooperation among nations participating in NASA’s Artemis program. Photo Credit: (NASA/Keegan Barber)",
+                        "keywords": [
+                            "Artemis Accords",
+                            "DC",
+                            "Ecuador",
+                            "Karen Feldstein",
+                            "Washington"
+                        ],
+                        "location": "Embassy of Ecuador",
+                        "media_type": "image",
+                        "nasa_id": "NHQ202306210005",
+                        "photographer": "NASA/Keegan Barber",
+                        "title": "Ecuador Artemis Accords Signing",
+                        "album": [
+                            "20230621_Ecuador_Artemis_Accords_Signing"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/NHQ202306210005/NHQ202306210005~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02537/collection.json",
+                "data": [
+                    {
+                        "center": "GRC",
+                        "title": "Day In The Life of Artemis Employees",
+                        "photographer": "NASA/GRC/Bridget Caswell",
+                        "location": "NASA Glenn Research Center, Plum Brook Station",
+                        "nasa_id": "GRC-2020-C-02537",
+                        "date_created": "2020-03-12T00:00:00Z",
+                        "keywords": [
+                            "Moon",
+                            "Artemis Team Member",
+                            "Spacecraft",
+                            "Orion",
+                            "SEC",
+                            "Russell_503207",
+                            "1411",
+                            "Avail_Ready",
+                            "1441",
+                            "Day In The Life of Artemis Employees",
+                            "Moon to Mars",
+                            "Plum Brook",
+                            "Artemis",
+                            "Space Environments Complex",
+                            "Bryce Cox"
+                        ],
+                        "media_type": "image",
+                        "description": "Day In The Life of Artemis Employees"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02537/GRC-2020-C-02537~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02571/collection.json",
+                "data": [
+                    {
+                        "center": "GRC",
+                        "title": "Day In The Life of Artemis Employees",
+                        "photographer": "NASA/GRC/Jef Janis",
+                        "location": "NASA Glenn Research Center, Plum Brook Station",
+                        "nasa_id": "GRC-2020-C-02571",
+                        "date_created": "2020-03-11T00:00:00Z",
+                        "keywords": [
+                            "Moon",
+                            "Artemis Test Team Members",
+                            "Spacecraft",
+                            "Orion",
+                            "SEC",
+                            "Russell_503207",
+                            "1411",
+                            "Avail_Ready",
+                            "Day In The Life of Artemis Employees",
+                            "Moon to Mars",
+                            "Plum Brook",
+                            "Artemis",
+                            "Space Environments Complex"
+                        ],
+                        "media_type": "image",
+                        "description": "Day In The Life of Artemis Employees"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02571/GRC-2020-C-02571~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02574/collection.json",
+                "data": [
+                    {
+                        "center": "GRC",
+                        "title": "Day In The Life of Artemis Employees",
+                        "photographer": "NASA/GRC/Jef Janis",
+                        "location": "NASA Glenn Research Center, Plum Brook Station",
+                        "nasa_id": "GRC-2020-C-02574",
+                        "date_created": "2020-03-11T00:00:00Z",
+                        "keywords": [
+                            "Moon",
+                            "Artemis Test Team Members",
+                            "Spacecraft",
+                            "Orion",
+                            "SEC",
+                            "Russell_503207",
+                            "1411",
+                            "Avail_Ready",
+                            "Day In The Life of Artemis Employees",
+                            "Moon to Mars",
+                            "Plum Brook",
+                            "Artemis",
+                            "Space Environments Complex"
+                        ],
+                        "media_type": "image",
+                        "description": "Day In The Life of Artemis Employees"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02574/GRC-2020-C-02574~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02591/collection.json",
+                "data": [
+                    {
+                        "center": "GRC",
+                        "title": "Day In The Life of Artemis Employees",
+                        "photographer": "NASA/GRC/Jef Janis",
+                        "location": "NASA Glenn Research Center, Plum Brook Station",
+                        "nasa_id": "GRC-2020-C-02591",
+                        "date_created": "2020-03-13T00:00:00Z",
+                        "keywords": [
+                            "Moon",
+                            "Artemis Test Team Members",
+                            "Spacecraft",
+                            "Orion",
+                            "SEC",
+                            "Russell_503207",
+                            "1411",
+                            "Avail_Ready",
+                            "Day In The Life of Artemis Employees",
+                            "Moon to Mars",
+                            "Plum Brook",
+                            "Artemis",
+                            "Space Environments Complex"
+                        ],
+                        "media_type": "image",
+                        "description": "Day In The Life of Artemis Employees"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02591/GRC-2020-C-02591~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02573/collection.json",
+                "data": [
+                    {
+                        "center": "GRC",
+                        "title": "Day In The Life of Artemis Employees",
+                        "photographer": "NASA/GRC/Jef Janis",
+                        "location": "NASA Glenn Research Center, Plum Brook Station",
+                        "nasa_id": "GRC-2020-C-02573",
+                        "date_created": "2020-03-11T00:00:00Z",
+                        "keywords": [
+                            "Moon",
+                            "Artemis Test Team Member",
+                            "Spacecraft",
+                            "Orion",
+                            "SEC",
+                            "Russell_503207",
+                            "1411",
+                            "Avail_Ready",
+                            "Day In The Life of Artemis Employees",
+                            "Moon to Mars",
+                            "Plum Brook",
+                            "Artemis",
+                            "Space Environments Complex"
+                        ],
+                        "media_type": "image",
+                        "description": "Day In The Life of Artemis Employees"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02573/GRC-2020-C-02573~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02582/collection.json",
+                "data": [
+                    {
+                        "center": "GRC",
+                        "title": "Day In The Life of Artemis Employees",
+                        "photographer": "NASA/GRC/Jef Janis",
+                        "location": "NASA Glenn Research Center, Plum Brook Station",
+                        "nasa_id": "GRC-2020-C-02582",
+                        "date_created": "2020-03-11T00:00:00Z",
+                        "keywords": [
+                            "Moon",
+                            "Artemis Test Team Member",
+                            "Spacecraft",
+                            "Orion",
+                            "SEC",
+                            "Russell_503207",
+                            "1411",
+                            "Avail_Ready",
+                            "Day In The Life of Artemis Employees",
+                            "Moon to Mars",
+                            "Plum Brook",
+                            "Artemis",
+                            "Space Environments Complex"
+                        ],
+                        "media_type": "image",
+                        "description": "Day In The Life of Artemis Employees"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02582/GRC-2020-C-02582~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02578/collection.json",
+                "data": [
+                    {
+                        "center": "GRC",
+                        "title": "Day In The Life of Artemis Employees",
+                        "photographer": "NASA/GRC/Jef Janis",
+                        "location": "NASA Glenn Research Center, Plum Brook Station",
+                        "nasa_id": "GRC-2020-C-02578",
+                        "date_created": "2020-03-11T00:00:00Z",
+                        "keywords": [
+                            "Moon",
+                            "Artemis Test Team Members",
+                            "Spacecraft",
+                            "Orion",
+                            "SEC",
+                            "Russell_503207",
+                            "1411",
+                            "Avail_Ready",
+                            "Day In The Life of Artemis Employees",
+                            "Moon to Mars",
+                            "Plum Brook",
+                            "Artemis",
+                            "Space Environments Complex"
+                        ],
+                        "media_type": "image",
+                        "description": "Day In The Life of Artemis Employees"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02578/GRC-2020-C-02578~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02579/collection.json",
+                "data": [
+                    {
+                        "center": "GRC",
+                        "title": "Day In The Life of Artemis Employees",
+                        "photographer": "NASA/GRC/Jef Janis",
+                        "location": "NASA Glenn Research Center, Plum Brook Station",
+                        "nasa_id": "GRC-2020-C-02579",
+                        "date_created": "2020-03-11T00:00:00Z",
+                        "keywords": [
+                            "Moon",
+                            "Artemis Test Team Members",
+                            "Spacecraft",
+                            "Orion",
+                            "SEC",
+                            "Russell_503207",
+                            "1411",
+                            "Avail_Ready",
+                            "Day In The Life of Artemis Employees",
+                            "Moon to Mars",
+                            "Plum Brook",
+                            "Artemis",
+                            "Space Environments Complex"
+                        ],
+                        "media_type": "image",
+                        "description": "Day In The Life of Artemis Employees"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02579/GRC-2020-C-02579~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02590/collection.json",
+                "data": [
+                    {
+                        "center": "GRC",
+                        "title": "Day In The Life of Artemis Employees",
+                        "photographer": "NASA/GRC/Jef Janis",
+                        "location": "NASA Glenn Research Center, Plum Brook Station",
+                        "nasa_id": "GRC-2020-C-02590",
+                        "date_created": "2020-03-13T00:00:00Z",
+                        "keywords": [
+                            "Moon",
+                            "Artemis Test Team Members",
+                            "Spacecraft",
+                            "Orion",
+                            "SEC",
+                            "Russell_503207",
+                            "1411",
+                            "Avail_Ready",
+                            "Day In The Life of Artemis Employees",
+                            "Moon to Mars",
+                            "Plum Brook",
+                            "Artemis",
+                            "Space Environments Complex"
+                        ],
+                        "media_type": "image",
+                        "description": "Day In The Life of Artemis Employees"
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/GRC-2020-C-02590/GRC-2020-C-02590~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-JBS01_0048/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "A sunrise view of NASA’s Space Launch System and Orion spacecraft for Artemis I on the pad at Launch Complex 39B at NASA’s Kennedy Space Center in Florida on Aug. 22, 2022. Launch of Artemis I is scheduled for no earlier than Aug. 29, 2022, at 8:33 a.m. EDT. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "LC 39B",
+                            "Moon",
+                            "Sunrise"
+                        ],
+                        "location": "KSC",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-JBS01_0048",
+                        "photographer": "NASA/Ben Smegelsky",
+                        "title": "Artemis I at LC 39B",
+                        "album": [
+                            "Artemis_I_Rollout_for_Launch"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-JBS01_0048/KSC-20220822-PH-JBS01_0048~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-JBS01_0079/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "A sunrise view of NASA’s Space Launch System and Orion spacecraft for Artemis I on the pad at Launch Complex 39B at NASA’s Kennedy Space Center in Florida on Aug. 22, 2022. Launch of Artemis I is scheduled for no earlier than Aug. 29, 2022, at 8:33 a.m. EDT. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "LC 39B",
+                            "Moon",
+                            "Sunrise"
+                        ],
+                        "location": "KSC",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-JBS01_0079",
+                        "photographer": "NASA/Ben Smegelsky",
+                        "title": "Artemis I at LC 39B",
+                        "album": [
+                            "Artemis_I_Rollout_for_Launch"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-JBS01_0079/KSC-20220822-PH-JBS01_0079~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-JBS01_0036/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-22T00:00:00Z",
+                        "description": "A golden sunrise surrounds NASA’s Space Launch System and Orion spacecraft for Artemis I on the pad at Launch Complex 39B at NASA’s Kennedy Space Center in Florida on Aug. 22, 2022. Launch of Artemis I is scheduled for no earlier than Aug. 29, 2022, at 8:33 a.m. EDT. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown. ",
+                        "keywords": [
+                            "Artemis",
+                            "LC 39B",
+                            "Moon",
+                            "Sunrise"
+                        ],
+                        "location": "KSC",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220822-PH-JBS01_0036",
+                        "photographer": "NASA/Ben Smegelsky",
+                        "title": "Artemis I at LC 39B",
+                        "album": [
+                            "Artemis_I_Rollout_for_Launch"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220822-PH-JBS01_0036/KSC-20220822-PH-JBS01_0036~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20221112-PH-KLS01_0010/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-11-12T00:00:00Z",
+                        "description": "Artemis I team members conduct the Artemis I launch pre-test briefing on Nov. 12, 2022, at NASA’s Kennedy Space Center in Florida. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Briefing",
+                            "EGS",
+                            "KSC",
+                            "Mars",
+                            "Moon",
+                            "Orion",
+                            "Pad 39B",
+                            "Pre-test briefing",
+                            "SLS"
+                        ],
+                        "location": "OSB II",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20221112-PH-KLS01_0010",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Pre-Test Briefing",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20221112-PH-KLS01_0010/KSC-20221112-PH-KLS01_0010~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20221112-PH-KLS01_0052/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-11-12T00:00:00Z",
+                        "description": "Artemis launch director, Charlie Blackwell-Thompson (right) and technical assistant to the launch director, Wes Mosedale (left) are seen at the launch pre-test briefing Nov. 12, 2022, at NASA’s Kennedy Space Center in Florida for the Artemis I mission. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Briefing",
+                            "EGS",
+                            "KSC",
+                            "Mars",
+                            "Moon",
+                            "Orion",
+                            "Pad 39B",
+                            "Pre-test briefing",
+                            "SLS"
+                        ],
+                        "location": "OSB II",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20221112-PH-KLS01_0052",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Pre-Test Briefing",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20221112-PH-KLS01_0052/KSC-20221112-PH-KLS01_0052~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20221112-PH-KLS01_0076/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-11-12T00:00:00Z",
+                        "description": "Artemis launch director, Charlie Blackwell-Thompson is seen at the launch pre-test briefing Nov. 12, 2022, at NASA’s Kennedy Space Center in Florida for the Artemis I mission. The first in a series of increasingly complex missions, Artemis I will provide a foundation for human deep space exploration and demonstrate our commitment and capability to extend human presence to the Moon and beyond. The primary goal of Artemis I is to thoroughly test the integrated systems before crewed missions by operating the spacecraft in a deep space environment, testing Orion’s heat shield, and recovering the crew module after reentry, descent, and splashdown.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "Briefing",
+                            "EGS",
+                            "KSC",
+                            "Mars",
+                            "Moon",
+                            "Orion",
+                            "Pad 39B",
+                            "Pre-test briefing",
+                            "SLS"
+                        ],
+                        "location": "OSB II",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20221112-PH-KLS01_0076",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Pre-Test Briefing",
+                        "album": [
+                            "Artemis_I_Briefings_at_KSC"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20221112-PH-KLS01_0076/KSC-20221112-PH-KLS01_0076~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20211213-PH-CSH01_0016/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Fully-stacked views of the Artemis I SLS rocket",
+                        "photographer": "NASA/Cory Huston",
+                        "keywords": [
+                            "VAB",
+                            "Artemis",
+                            "Artemis I",
+                            "SLS",
+                            "Orion",
+                            "EGS",
+                            "Exploration Ground Systems"
+                        ],
+                        "location": "VAB",
+                        "nasa_id": "KSC-20211213-PH-CSH01_0016",
+                        "date_created": "2021-12-13T00:00:00Z",
+                        "media_type": "image",
+                        "description": "NASA’s massive Space Launch System (SLS) rocket for the agency’s Artemis I mission is shown fully stacked – with NASA’s Orion spacecraft atop – inside Kennedy Space Center’s Vehicle Assembly Building on Dec. 13, 2021. Artemis I is the inaugural launch of SLS and Orion as an integrated system. With Artemis missions, NASA will explore more of the lunar surface than ever before, using what we learn on and around the Moon to prepare for missions to Mars."
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20211213-PH-CSH01_0016/KSC-20211213-PH-CSH01_0016~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20211213-PH-CSH01_0004/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Fully-stacked views of the Artemis I SLS rocket",
+                        "photographer": "NASA/Cory Huston",
+                        "keywords": [
+                            "VAB",
+                            "Artemis",
+                            "Artemis I",
+                            "SLS",
+                            "Orion",
+                            "EGS",
+                            "Exploration Ground Systems"
+                        ],
+                        "location": "VAB",
+                        "nasa_id": "KSC-20211213-PH-CSH01_0004",
+                        "date_created": "2021-12-13T00:00:00Z",
+                        "media_type": "image",
+                        "description": "NASA’s massive Space Launch System (SLS) rocket for the agency’s Artemis I mission is shown fully stacked – with NASA’s Orion spacecraft atop – inside Kennedy Space Center’s Vehicle Assembly Building on Dec. 13, 2021. Artemis I is the inaugural launch of SLS and Orion as an integrated system. With Artemis missions, NASA will explore more of the lunar surface than ever before, using what we learn on and around the Moon to prepare for missions to Mars."
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20211213-PH-CSH01_0004/KSC-20211213-PH-CSH01_0004~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20211213-PH-CSH01_0001/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Fully-stacked views of the Artemis I SLS rocket",
+                        "photographer": "NASA/Cory Huston",
+                        "keywords": [
+                            "VAB",
+                            "Artemis",
+                            "Artemis I",
+                            "SLS",
+                            "Orion",
+                            "EGS",
+                            "Exploration Ground Systems"
+                        ],
+                        "location": "VAB",
+                        "nasa_id": "KSC-20211213-PH-CSH01_0001",
+                        "date_created": "2021-12-13T00:00:00Z",
+                        "media_type": "image",
+                        "description": "NASA’s massive Space Launch System (SLS) rocket for the agency’s Artemis I mission is shown fully stacked – with NASA’s Orion spacecraft atop – inside Kennedy Space Center’s Vehicle Assembly Building on Dec. 13, 2021. Artemis I is the inaugural launch of SLS and Orion as an integrated system. With Artemis missions, NASA will explore more of the lunar surface than ever before, using what we learn on and around the Moon to prepare for missions to Mars."
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20211213-PH-CSH01_0001/KSC-20211213-PH-CSH01_0001~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20211213-PH-CSH01_0012/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Fully-stacked views of the Artemis I SLS rocket",
+                        "photographer": "NASA/Cory Huston",
+                        "keywords": [
+                            "VAB",
+                            "Artemis",
+                            "Artemis I",
+                            "SLS",
+                            "Orion",
+                            "EGS",
+                            "Exploration Ground Systems"
+                        ],
+                        "location": "VAB",
+                        "nasa_id": "KSC-20211213-PH-CSH01_0012",
+                        "date_created": "2021-12-13T00:00:00Z",
+                        "media_type": "image",
+                        "description": "NASA’s massive Space Launch System (SLS) rocket for the agency’s Artemis I mission is shown fully stacked – with NASA’s Orion spacecraft atop – inside Kennedy Space Center’s Vehicle Assembly Building on Dec. 13, 2021. Artemis I is the inaugural launch of SLS and Orion as an integrated system. With Artemis missions, NASA will explore more of the lunar surface than ever before, using what we learn on and around the Moon to prepare for missions to Mars."
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20211213-PH-CSH01_0012/KSC-20211213-PH-CSH01_0012~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220511-PH-KLS01_0104/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Artemis II CTV Demo",
+                        "photographer": "NASA/Kim Shiflett",
+                        "location": "Training Auditorium, O&C, VAB, P",
+                        "nasa_id": "KSC-20220511-PH-KLS01_0104",
+                        "media_type": "image",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Astronauts",
+                            "CTV",
+                            "Crew Transport Vehicles",
+                            "KSC",
+                            "O&C",
+                            "Orion",
+                            "Pad 39B",
+                            "Training Auditorium",
+                            "VAB"
+                        ],
+                        "date_created": "2022-05-11T00:00:00Z",
+                        "description": "A concept design of a crew transportation vehicle (CTV) for Artemis crewed missions is driven inside the transfer aisle of the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on May 11, 2022. Canoo Technologies Inc., was awarded a contract to design and provide the next generation of CTVs for the Artemis crewed missions. Representatives with Canoo were at the spaceport demonstrating the environmentally friendly fleet of vehicles. Artemis II will be the first Artemis mission flying crew aboard Orion. In later missions, NASA will land the first woman and the first person of color on the surface of the Moon, paving the way for a long-term lunar presence and serving as a steppingstone on the way to Mars. "
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220511-PH-KLS01_0104/KSC-20220511-PH-KLS01_0104~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220511-PH-KLS01_0133/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Artemis II CTV Demo",
+                        "photographer": "NASA/Kim Shiflett",
+                        "location": "Training Auditorium, O&C, VAB, P",
+                        "nasa_id": "KSC-20220511-PH-KLS01_0133",
+                        "media_type": "image",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Astronauts",
+                            "CTV",
+                            "Crew Transport Vehicles",
+                            "KSC",
+                            "O&C",
+                            "Orion",
+                            "Pad 39B",
+                            "Training Auditorium",
+                            "VAB"
+                        ],
+                        "date_created": "2022-05-11T00:00:00Z",
+                        "description": "Several concept designs for Artemis crew transportation vehicles (CTV) are lined up in the transfer aisle of the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on May 11, 2022. Canoo Technologies Inc., was awarded a contract to design and provide the next generation of CTVs for the Artemis crewed missions. Representatives with Canoo were at the spaceport demonstrating the environmentally friendly fleet of vehicles. Artemis II will be the first Artemis mission flying crew aboard Orion. In later missions, NASA will land the first woman and the first person of color on the surface of the Moon, paving the way for a long-term lunar presence and serving as a steppingstone on the way to Mars. "
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220511-PH-KLS01_0133/KSC-20220511-PH-KLS01_0133~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220511-PH-KLS01_0237/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Artemis II CTV Demo",
+                        "photographer": "NASA/Kim Shiflett",
+                        "location": "Training Auditorium, O&C, VAB, P",
+                        "nasa_id": "KSC-20220511-PH-KLS01_0237",
+                        "media_type": "image",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Astronauts",
+                            "CTV",
+                            "Crew Transport Vehicles",
+                            "KSC",
+                            "O&C",
+                            "Orion",
+                            "Pad 39B",
+                            "Training Auditorium",
+                            "VAB"
+                        ],
+                        "date_created": "2022-05-11T00:00:00Z",
+                        "description": "Several concept designs for Artemis crew transportation vehicles (CTV) are lined up at Launch Complex 39B at NASA’s Kennedy Space Center in Florida on May 11, 2022. Canoo Technologies Inc., was awarded a contract to design and provide the next generation of CTVs for the Artemis crewed missions. Representatives with Canoo were at the spaceport demonstrating the environmentally friendly fleet of vehicles. Artemis II will be the first Artemis mission flying crew aboard Orion. In later missions, NASA will land the first woman and the first person of color on the surface of the Moon, paving the way for a long-term lunar presence and serving as a steppingstone on the way to Mars. "
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220511-PH-KLS01_0237/KSC-20220511-PH-KLS01_0237~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220804-PH-KLS01_0505/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "date_created": "2022-08-04T00:00:00Z",
+                        "description": "Artemis teams conduct the final simulation for the Artemis I mission inside the Launch Control Center at NASA’s Kennedy Space Center in Florida on Aug. 4, 2022. Artemis I will be the first integrated test of NASA’s Space Launch System (SLS) rocket and Orion spacecraft. During the flight, Orion will launch atop the most powerful rocket in the world and fly farther than any spacecraft for humans has ever flown. The spacecraft will stay in space longer than any human spacecraft has without docking to the International Space Station and return home faster than ever before. Shown here is Melissa Jones, Artemis I landing and recovery director.",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis I",
+                            "EGS",
+                            "Exploration Ground Systems",
+                            "Firing Room 1",
+                            "Firing Room 2",
+                            "LCC",
+                            "Launch Control Center"
+                        ],
+                        "location": "Firing Room 1 and 2, LCC",
+                        "media_type": "image",
+                        "nasa_id": "KSC-20220804-PH-KLS01_0505",
+                        "photographer": "NASA/Kim Shiflett",
+                        "title": "Artemis I Final Simulation",
+                        "album": [
+                            "Artemis_Launch_Team"
+                        ]
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220804-PH-KLS01_0505/KSC-20220804-PH-KLS01_0505~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220511-PH-KLS01_0015/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Artemis II CTV Demo",
+                        "photographer": "NASA/Kim Shiflett",
+                        "location": "Training Auditorium, O&C, VAB, P",
+                        "nasa_id": "KSC-20220511-PH-KLS01_0015",
+                        "media_type": "image",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Astronauts",
+                            "CTV",
+                            "Crew Transport Vehicles",
+                            "KSC",
+                            "O&C",
+                            "Orion",
+                            "Pad 39B",
+                            "Training Auditorium",
+                            "VAB"
+                        ],
+                        "date_created": "2022-05-11T00:00:00Z",
+                        "description": "Kennedy Space Center Director Janet Petro test drives a concept design crew transportation vehicle (CTV) for Artemis crewed missions on May 11, 2022. Canoo Technologies Inc., was awarded a contract to design and provide the next generation of CTVs for the Artemis crewed missions. Representatives with Canoo  were at the spaceport demonstrating the environmentally friendly fleet of vehicles. Artemis II will be the first Artemis mission flying crew aboard Orion. In later missions, NASA will land the first woman and the first person of color on the surface of the Moon, paving the way for a long-term lunar presence and serving as a steppingstone on the way to Mars. "
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220511-PH-KLS01_0015/KSC-20220511-PH-KLS01_0015~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            },
+            {
+                "href": "https://images-assets.nasa.gov/image/KSC-20220511-PH-KLS01_0100/collection.json",
+                "data": [
+                    {
+                        "center": "KSC",
+                        "title": "Artemis II CTV Demo",
+                        "photographer": "NASA/Kim Shiflett",
+                        "location": "Training Auditorium, O&C, VAB, P",
+                        "nasa_id": "KSC-20220511-PH-KLS01_0100",
+                        "media_type": "image",
+                        "keywords": [
+                            "Artemis",
+                            "Artemis II",
+                            "Astronauts",
+                            "CTV",
+                            "Crew Transport Vehicles",
+                            "KSC",
+                            "O&C",
+                            "Orion",
+                            "Pad 39B",
+                            "Training Auditorium",
+                            "VAB"
+                        ],
+                        "date_created": "2022-05-11T00:00:00Z",
+                        "description": "A concept design of a crew transportation vehicle (CTV) for Artemis crewed missions is driven inside the transfer aisle of the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on May 11, 2022. Canoo Technologies Inc., was awarded a contract to design and provide the next generation of CTVs for the Artemis crewed missions. Representatives with Canoo  were at the spaceport demonstrating the environmentally friendly fleet of vehicles. Artemis II will be the first Artemis mission flying crew aboard Orion. In later missions, NASA will land the first woman and the first person of color on the surface of the Moon, paving the way for a long-term lunar presence and serving as a steppingstone on the way to Mars. "
+                    }
+                ],
+                "links": [
+                    {
+                        "href": "https://images-assets.nasa.gov/image/KSC-20220511-PH-KLS01_0100/KSC-20220511-PH-KLS01_0100~thumb.jpg",
+                        "rel": "preview",
+                        "render": "image"
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "total_hits": 7022
+        },
+        "links": [
+            {
+                "rel": "next",
+                "prompt": "Next",
+                "href": "http://images-api.nasa.gov/search?q=artemis&media_type=image&description=artemis&page=2"
+            }
+        ]
+    }
+}
