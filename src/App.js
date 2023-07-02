@@ -17,7 +17,7 @@ function App() {
     q: "artemis",
     media_type: "image",
     description: "",
-    page_size: 20,
+    page_size: 9,
   };
 
   const fetchCards = (queryParams) => {
