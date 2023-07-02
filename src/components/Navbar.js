@@ -6,13 +6,25 @@ import logonasa4 from "./img/logonasa4.png";
 import logonasa5 from "./img/logonasa5.png";
 import logoksp from "./img/logoksp.png";
 import logosf from "./img/starfleet.png";
-
 import "./Navbar.css";
 
-const Navbar = ({ brand, keywords, onKeywordsChange, onApplyFilter }) => {
+const Navbar = ({
+  brand,
+  keywords,
+  onKeywordsChange,
+  onApplyFilter,
+}) => {
   const [logoIndex, setLogoIndex] = useState(0);
 
-  const logos = [logonasa, logonasa2, logonasa3, logonasa4, logonasa5, logoksp, logosf];
+  const logos = [
+    logonasa,
+    logonasa2,
+    logonasa3,
+    logonasa4,
+    logonasa5,
+    logoksp,
+    logosf,
+  ];
 
   const handleKeywordsChange = (event) => {
     onKeywordsChange(event.target.value);
@@ -59,13 +71,12 @@ const Navbar = ({ brand, keywords, onKeywordsChange, onApplyFilter }) => {
         <div className="input-group">
           <input
             type="text"
-            className="form-control"
+            className="filter-input form-control"
             placeholder="Filter Keywords"
             value={keywords}
             onChange={handleKeywordsChange}
             onKeyDown={handleKeyDown}
           />
-          <span>_</span>
           <div className="input-group-append">
             <button
               className="btn btn-outline-light"

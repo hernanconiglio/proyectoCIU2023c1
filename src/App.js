@@ -3,6 +3,9 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Navbar from "./components/Navbar";
 import CardList from "./components/CardList";
+import botonModoOscuro from "./components/img/botonModoOscuro.jpg";
+import botonModoClaro from "./components/img/botonModoClaro.jpg";
+
 
 function App() {
   const [cards, setCards] = useState([]);
@@ -81,6 +84,21 @@ function App() {
     fetchCards({});
   }, []);
 
+    // Función para manejar el cambio de tema
+    const handleTemaClick = () => {
+      const modoActual = document.querySelector("html").getAttribute("data-bs-theme");
+      if (modoActual === null) {
+        document.querySelector("html").setAttribute("data-bs-theme", "dark");
+        localStorage.setItem("tema", "dark");
+        return;
+      }
+      const nuevoModo = modoActual === "light" ? "dark" : "light";
+      document.querySelector("html").setAttribute("data-bs-theme", nuevoModo);
+      localStorage.setItem("tema", nuevoModo);
+    };
+
+
+
   return (
     <>
       <Navbar
@@ -91,6 +109,7 @@ function App() {
       />
 
       <div className="container py-5">
+        
         <nav>
           <ul className="pagination justify-content-center">
             {info.prev && (
@@ -108,11 +127,27 @@ function App() {
               </li>
             )}
           </ul>
+
         </nav>
+
+        <a href="#q" onClick={handleTemaClick}>
+            <img
+              className="botonDeModo"
+              src={
+                document.querySelector("html").getAttribute("data-bs-theme") ===
+                "light"
+                  ? botonModoOscuro
+                  : botonModoClaro
+              }
+              alt="botonModo"
+              title="Modo Oscuro / Modo Claro"
+            />
+          </a>
+       
       </div>
 
       {isLoading ? (
-        <div className="container">Cargando datos...</div>
+        <div className="container">Loading data...</div>
       ) : (
         <CardList cards={cards} />
       )}
