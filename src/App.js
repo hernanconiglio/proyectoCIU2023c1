@@ -102,7 +102,7 @@ function App() {
   return (
     <>
       <Navbar
-        brand="Misión Artemis NASA - Galería de imágenes"
+        brand="NASA Artemis - Image gallery"
         keywords={keywords}
         onKeywordsChange={setKeywords}
         onApplyFilter={handleApplyFilter}

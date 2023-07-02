@@ -1,7 +1,7 @@
 .App {
   text-align: center;
-  margin: 0; /* Agrega esta línea */
-  padding: 0; /* Agrega esta línea */
+  margin: 0;
+  padding: 0;
 }
 
 .App-header {
@@ -13,8 +13,8 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  margin: 0; /* Agrega esta línea */
-  padding: 0; /* Agrega esta línea */
+  margin: 0;
+  padding: 0;
 }
 
 .App-link {
@@ -27,7 +27,21 @@
 
 .botonDeModo {
   width: 70px;
-  margin-left: auto;
-  margin-top: -100px;
+  margin-top: -180px;
+  right: 30px;
   border-radius: 40%;
+  position: fixed;
+  z-index: 10000;
+}
+
+.card {
+  transition: transform 0.8s ease;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+
+.card:not(:hover) {
+  transform: scale(1);
 }
