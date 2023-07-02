@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import CardList from "./components/CardList";
 import botonModoOscuro from "./components/img/botonModoOscuro.jpg";
 import botonModoClaro from "./components/img/botonModoClaro.jpg";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -172,6 +173,8 @@ function App() {
           </ul>
         </nav>
       </div>
+      <Footer />
+
     </>
   );
 }
