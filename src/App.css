@@ -29,9 +29,9 @@
 
 .botonDeModo {
   width: 70px;
-  margin-top: -180px;
+  margin-top: -185px;
   right: 30px;
-  border-radius: 40%;
+  border-radius: 35%;
   position: fixed;
   z-index: 10000;
 }
@@ -42,6 +42,7 @@
 
 .card:hover {
   transform: scale(1.1);
+  z-index: 1;
 }
 
 .card:not(:hover) {
@@ -53,3 +54,11 @@
   font-size: 16px;
 }
 
+brand {
+  font-family: 'Nasa' format('truetype');
+}
+
+.loadingData {
+  font-family: 'Space Mono', monospace;
+  font-size: 20px;
+}

@@ -64,7 +64,7 @@ const Navbar = ({
               />
             ))}
           </div>
-          <a className="navbar-brand text-uppercase" href="/">
+          <a className="navbar-brand titulo" href="/">
             {brand}
           </a>
         </div>

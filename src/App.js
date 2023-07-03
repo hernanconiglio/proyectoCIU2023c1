@@ -7,7 +7,6 @@ import botonModoOscuro from "./components/img/botonModoOscuro.jpg";
 import botonModoClaro from "./components/img/botonModoClaro.jpg";
 import Footer from "./components/Footer";
 
-
 function App() {
   const [cards, setCards] = useState([]);
   const [info, setInfo] = useState({});
@@ -102,8 +101,8 @@ function App() {
 
   return (
     <>
-      <Navbar
-        brand="NASA Artemis - Image gallery"
+      <Navbar 
+        brand="NASA Artemis - Image Gallery"
         keywords={keywords}
         onKeywordsChange={setKeywords}
         onApplyFilter={handleApplyFilter}
@@ -148,7 +147,7 @@ function App() {
       </div>
 
       {isLoading ? (
-        <div className="container">Loading data...</div>
+        <div className="container loadingData">Loading data...</div>
       ) : (
         <CardList cards={cards} />
       )}
