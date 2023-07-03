@@ -12,12 +12,26 @@ function App() {
   const [info, setInfo] = useState({});
   const [isLoading, setIsLoading] = useState(true);
   const [keywords, setKeywords] = useState("");
+
+  //Iniciamos nuestro local storage
+  let initKeywords = JSON.parse(localStorage.getItem("lastKeywords"));
+  if (!initKeywords) {
+    initKeywords = [];
+  }
+
+  //Funcion para borrar el local storage
+  const handleClearKeywords = () => {
+    localStorage.clear();
+    setLastKeywords([]);
+  };
+
+  const [lastKeywords, setLastKeywords] = useState(initKeywords);
   const baseUrl = "https://images-api.nasa.gov/search";
   const defaultQueryParams = {
     q: "artemis",
     media_type: "image",
     description: "",
-    page_size: 9,
+    page_size: 12,
   };
 
   const fetchCards = (queryParams) => {
@@ -40,7 +54,7 @@ function App() {
         setIsLoading(false);
       });
   };
-  
+
   const handleNextPage = () => {
     if (info.next) {
       const queryParams = parseQueryParams(info.next.href);
@@ -48,7 +62,7 @@ function App() {
       window.scrollTo(0, 0);
     }
   };
-  
+
   const handlePreviousPage = () => {
     if (info.prev) {
       const queryParams = parseQueryParams(info.prev.href);
@@ -56,7 +70,7 @@ function App() {
       window.scrollTo(0, 0);
     }
   };
-  
+
   const parseQueryParams = (url) => {
     const queryString = url.split("?")[1];
     const params = new URLSearchParams(queryString);
@@ -66,10 +80,15 @@ function App() {
     }
     return queryParams;
   };
-  
-  
+
   const handleApplyFilter = () => {
     fetchCards({ description: keywords });
+    setLastKeywords((prevKeywords) => {
+      if (keywords.trim() !== "" && !prevKeywords.includes(keywords)) {
+        return [keywords, ...prevKeywords.slice(0, 11)];
+      }
+      return prevKeywords;
+    });
   };
 
   const buildUrl = (baseUrl, queryParams) => {
@@ -81,69 +100,75 @@ function App() {
   };
 
   useEffect(() => {
+    const storedKeywords = localStorage.getItem("lastKeywords");
+    if (storedKeywords) {
+      setLastKeywords(JSON.parse(storedKeywords));
+    }
     fetchCards({});
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-    // Función para manejar el cambio de tema
-    const handleTemaClick = () => {
-      const modoActual = document.querySelector("html").getAttribute("data-bs-theme");
-      if (modoActual === null) {
-        document.querySelector("html").setAttribute("data-bs-theme", "dark");
-        localStorage.setItem("tema", "dark");
-        return;
-      }
-      const nuevoModo = modoActual === "light" ? "dark" : "light";
-      document.querySelector("html").setAttribute("data-bs-theme", nuevoModo);
-      localStorage.setItem("tema", nuevoModo);
-    };
+  useEffect(() => {
+    localStorage.setItem("lastKeywords", JSON.stringify(lastKeywords));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [lastKeywords]);
 
-
+  // Función para manejar el cambio de tema
+  const handleTemaClick = () => {
+    const modoActual = document
+      .querySelector("html")
+      .getAttribute("data-bs-theme");
+    if (modoActual === null) {
+      document.querySelector("html").setAttribute("data-bs-theme", "dark");
+      localStorage.setItem("tema", "dark");
+      return;
+    }
+    const nuevoModo = modoActual === "light" ? "dark" : "light";
+    document.querySelector("html").setAttribute("data-bs-theme", nuevoModo);
+    localStorage.setItem("tema", nuevoModo);
+  };
 
   return (
     <>
-      <Navbar 
+      <Navbar
         brand="NASA Artemis - Image Gallery"
         keywords={keywords}
         onKeywordsChange={setKeywords}
         onApplyFilter={handleApplyFilter}
       />
-
       <div className="container py-5">
-        
         <nav>
           <ul className="pagination justify-content-center">
             {info.prev && (
               <li className="page-item">
                 <button className="page-link" onClick={handlePreviousPage}>
-                  Previous
+                  Previous Page
                 </button>
               </li>
             )}
             {info.next && (
               <li className="page-item">
                 <button className="page-link" onClick={handleNextPage}>
-                  Next
+                  Next Page
                 </button>
               </li>
             )}
           </ul>
-
         </nav>
 
-        <a href="#q" onClick={handleTemaClick}>
-            <img
-              className="botonDeModo"
-              src={
-                document.querySelector("html").getAttribute("data-bs-theme") ===
-                "light"
-                  ? botonModoOscuro
-                  : botonModoClaro
-              }
-              alt="botonModo"
-              title="Modo Oscuro / Modo Claro"
-            />
-          </a>
-       
+        <a href="#t" onClick={handleTemaClick}>
+          <img
+            className="botonDeModo"
+            src={
+              document.querySelector("html").getAttribute("data-bs-theme") ===
+              "light"
+                ? botonModoOscuro
+                : botonModoClaro
+            }
+            alt="botonModo"
+            title="Modo Oscuro / Modo Claro"
+          />
+        </a>
       </div>
 
       {isLoading ? (
@@ -152,28 +177,46 @@ function App() {
         <CardList cards={cards} />
       )}
 
-      <div className="container pb-5">
+      <div className="container pb-3">
         <nav>
           <ul className="pagination justify-content-center">
             {info.prev && (
               <li className="page-item">
                 <button className="page-link" onClick={handlePreviousPage}>
-                  Previous
+                  Previous Page
                 </button>
               </li>
             )}
             {info.next && (
               <li className="page-item">
                 <button className="page-link" onClick={handleNextPage}>
-                  Next
+                  Next Page
                 </button>
               </li>
             )}
           </ul>
         </nav>
       </div>
+      <div className="lastFilteredKeywords">
+      <h4 className="lastK">Last filtered Keywords</h4>
+      <div className="lastKeywords-grid">
+        {lastKeywords.map((keyword, index) => (
+          <div key={index} className="lastKeywords-item">
+            {keyword}
+          </div>
+        ))}
+      </div>
+      <div className="clear">
+        <button
+          className="btn btn-warning btn-sm"
+          id="clearKeywords"
+          onClick={handleClearKeywords}
+        >
+          Clear Keywords
+        </button>
+      </div>
+      </div>
       <Footer />
-
     </>
   );
 }

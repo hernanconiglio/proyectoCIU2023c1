@@ -72,7 +72,7 @@ const Navbar = ({
           <input
             type="text"
             className="filter-input form-control"
-            placeholder="Filter Keywords"
+            placeholder="Filter Keyword"
             value={keywords}
             onChange={handleKeywordsChange}
             onKeyDown={handleKeyDown}

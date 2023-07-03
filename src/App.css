@@ -1,9 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Nova+Cut&family=Roboto:wght@400;700&family=Space+Mono&family=Vast+Shadow&display=swap');
 
+html {
+  scroll-behavior: smooth;
+}
+
 .App {
-  text-align: center;
-  margin: 0;
-  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.container {
+  flex-grow: 1;
+
+}
+
+/* Estilo para el Footer */
+footer {
+  flex-shrink: 0;
 }
 
 .App-header {
@@ -17,6 +31,7 @@
   color: white;
   margin: 0;
   padding: 0;
+
 }
 
 .App-link {
@@ -24,12 +39,12 @@
 }
 
 .page-item {
-  padding-top: 100px;
+  padding-top: 98px;
 }
 
 .botonDeModo {
   width: 70px;
-  margin-top: -185px;
+  margin-top: -180px;
   right: 30px;
   border-radius: 35%;
   position: fixed;
@@ -62,3 +77,47 @@ brand {
   font-family: 'Space Mono', monospace;
   font-size: 20px;
 }
+
+.lastK {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: rgb(144, 144, 246);
+  font-size: 20px;
+  margin-top: 5px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.lastFilteredKeywords {
+  border-radius: 20px;
+  border-style: solid;
+  margin-bottom: 5px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+
+.clear {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+
+.lastKeywords-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  justify-items: center;
+  gap: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.lastKeywords-item {
+  border: 1px solid #ccc;
+  padding: 8px;
+  border-radius: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+

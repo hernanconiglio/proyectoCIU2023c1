@@ -39,7 +39,8 @@ const CardList = ({ cards }) => {
           ))}
         </div>
       ) : (
-        <p>No se encontraron tarjetas.</p>
+        <p className="loadingData">No se encontraron tarjetas con ese filtro.
+        </p>
       )}
     </div>
   );
