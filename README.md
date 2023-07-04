@@ -1,6 +1,7 @@
 ![Logo de UNaHur](src/components/img/UNAHUR-logo.png)
 
-# <center>Trabajo Final Integrador</center><center>Construcción de Interfaces de Usuario</center><center>2023C1 - Imágenes Artemis de la NASA</center>
+# <center>Trabajo Final Integrador</center>
+<center>Construcción de Interfaces de Usuario</center><center>2023C1 - Imágenes Artemis de la NASA</center>
 
 Este proyecto es el trabajo final de la materia Construcción de Interfases de Usuario de la UNaHur (Universidad Nacional de Hurlingham).
 
@@ -21,7 +22,7 @@ La aplicación web desarrollada con React tiene como objetivo mostrar el catálo
 
 El componente App.jsx es el componente principal de la aplicación. Contiene el estado de la aplicación, los métodos para cambiar el estado y los componentes que conforman la aplicación. Utiliza el hook useEffect para ejecutar la función que obtiene los datos de la API de la NASA y los almacena en el estado de la aplicación. También utiliza el hook useState para cambiar el estado de la aplicación cuando se ejecuta una búsqueda por palabra clave. 
 En Index.html se incluye el link a la hoja de estilos de Bootstrap y el link a la hoja de estilos personalizada.
-Axion se utiliza para obtener los datos de la API de la NASA.
+Axios se utiliza para realizar el parseo de los datos de la API de la NASA, que se reciben en formato JSON.
 A continuación, se describen el resto de los componentes que conforman la aplicación.
 
 ### Header (Navbar)
