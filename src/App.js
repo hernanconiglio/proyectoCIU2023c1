@@ -128,6 +128,15 @@ function App() {
     localStorage.setItem("tema", nuevoModo);
   };
 
+  //funcion para persistir el tema
+  useEffect(() => {
+    const temaActual = localStorage.getItem("tema");
+    if (temaActual) {
+      document.querySelector("html").setAttribute("data-bs-theme", temaActual);
+    }
+  }, []);
+      
+
   return (
     <>
       <Navbar
