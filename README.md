@@ -7,7 +7,7 @@ Este proyecto es el trabajo final de la materia Construcción de Interfases de U
 
 ## Descripción
 
-La aplicación web desarrollada con React tiene como objetivo mostrar el catálogo de imágenes del proyecto Artemis de la NASA. Utiliza los complementos Axios para el parseo de archivos JSON y consulta la [API de la NASA](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf) para obtener los datos.
+La aplicación web desarrollada con React tiene como objetivo mostrar el catálogo de imágenes del proyecto Artemis de la NASA. Utiliza Axios para el parseo de archivos JSON y consulta la [API de la NASA](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf) para obtener los datos.
 
 ## Funcionalidades
 
@@ -15,6 +15,14 @@ La aplicación web desarrollada con React tiene como objetivo mostrar el catálo
 - Filtrar imágenes por palabra clave.
 - Persistencia de las últimas palabras clave utilizadas en las búsquedas.
 - Cambio entre modo claro y modo oscuro.
+
+Para lograr estas funcionalidades, la aplicación comple con lo siguiente:
+- Procesamiento de datos.
+- Hooks.
+- Consulta de una API.
+- Creación de componentes.
+- Uso de ccs y Bootstrap.
+- Persistencia local.
 
 ## Secciones
 
