@@ -10,13 +10,13 @@ const Footer = () => {
                 <hr className="bg-white"/>
                 <div className="container">
                     <nav className="row">
-                        <Link to="http://unahur.edu.ar" className="col-12 col-md-3 d-flex aling-items-center justify-content-center">
+                        <Link to="http://unahur.edu.ar" className="col-12 col-md-3 d-flex justify-content-center">
                             <img src={logoUnahur} className="mx-2" alt="logoUnahur" height="90"/>
                         </Link>
-                        <ul className="col-12 col-md-3 list-unstyled">
-                            <li className="font-weight-bold mb-2 materia">Trabajo Final Integrador</li>
-                            <li className="mb-2 materia">C. Interfases de Usuario</li>
-                            <li className="mb-2 materia">2023C1 - Comisión jueves 18 a 22</li>
+                        <ul className="col-12 col-md-3 list-unstyled materia">
+                            <li className="font-weight-bold mb-2">Trabajo Final Integrador</li>
+                            <li className="mb-2">C. Interfases de Usuario</li>
+                            <li className="mb-2">2023C1 - Comisión jueves 18 a 22</li>
                         </ul>
                         <ul className="col-12 col-md-3 list-unstyled materia">
                             <li className="font-weight-bold mb-2">Hernán M. Coniglio</li>

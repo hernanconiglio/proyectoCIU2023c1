@@ -1,7 +1,7 @@
 ![Logo de UNaHur](src/components/img/UNAHUR-logo.png)
 
 # <center>Trabajo Final Integrador</center>
-<center>Construcción de Interfaces de Usuario</center><center>2023C1 - Imágenes Artemis de la NASA</center>
+## <center>Construcción de Interfaces de Usuario</center><center>2023C1 - Imágenes Artemis de la NASA</center>
 
 Este proyecto es el trabajo final de la materia Construcción de Interfases de Usuario de la UNaHur (Universidad Nacional de Hurlingham).
 
