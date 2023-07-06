@@ -3,8 +3,8 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Navbar from "./components/Navbar";
 import CardList from "./components/CardList";
-import botonModoOscuro from "./components/img/botonModoOscuro.jpg";
-import botonModoClaro from "./components/img/botonModoClaro.jpg";
+import botonModoOscuro from "./components/img/sun.png";
+import botonModoClaro from "./components/img/moon.png";
 import Footer from "./components/Footer";
 
 function App() {
@@ -113,17 +113,14 @@ function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [lastKeywords]);
 
+  const [isDarkMode, setIsDarkMode] = useState(
+    localStorage.getItem("tema") === "dark"
+  );
+
   // Función para manejar el cambio de tema
   const handleTemaClick = () => {
-    const modoActual = document
-      .querySelector("html")
-      .getAttribute("data-bs-theme");
-    if (modoActual === null) {
-      document.querySelector("html").setAttribute("data-bs-theme", "dark");
-      localStorage.setItem("tema", "dark");
-      return;
-    }
-    const nuevoModo = modoActual === "light" ? "dark" : "light";
+    setIsDarkMode((prevMode) => !prevMode);
+    const nuevoModo = isDarkMode ? "light" : "dark";
     document.querySelector("html").setAttribute("data-bs-theme", nuevoModo);
     localStorage.setItem("tema", nuevoModo);
   };
@@ -135,7 +132,6 @@ function App() {
       document.querySelector("html").setAttribute("data-bs-theme", temaActual);
     }
   }, []);
-      
 
   return (
     <>
@@ -168,12 +164,7 @@ function App() {
         <a href="#t" onClick={handleTemaClick}>
           <img
             className="botonDeModo"
-            src={
-              document.querySelector("html").getAttribute("data-bs-theme") ===
-              "light"
-                ? botonModoOscuro
-                : botonModoClaro
-            }
+            src={isDarkMode ? botonModoOscuro : botonModoClaro}
             alt="botonModo"
             title="Modo Oscuro / Modo Claro"
           />
@@ -207,23 +198,23 @@ function App() {
         </nav>
       </div>
       <div className="lastFilteredKeywords">
-      <h4 className="lastK">Last filtered Keywords</h4>
-      <div className="lastKeywords-grid">
-        {lastKeywords.map((keyword, index) => (
-          <div key={index} className="lastKeywords-item">
-            {keyword}
-          </div>
-        ))}
-      </div>
-      <div className="clear">
-        <button
-          className="btn btn-warning btn-sm"
-          id="clearKeywords"
-          onClick={handleClearKeywords}
-        >
-          Clear Keywords
-        </button>
-      </div>
+        <h4 className="lastK">Last filtered Keywords</h4>
+        <div className="lastKeywords-grid">
+          {lastKeywords.map((keyword, index) => (
+            <div key={index} className="lastKeywords-item">
+              {keyword}
+            </div>
+          ))}
+        </div>
+        <div className="clear">
+          <button
+            className="btn btn-warning btn-sm"
+            id="clearKeywords"
+            onClick={handleClearKeywords}
+          >
+            Clear Keywords
+          </button>
+        </div>
       </div>
       <Footer />
     </>
