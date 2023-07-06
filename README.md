@@ -6,7 +6,7 @@
 Este proyecto es el trabajo final de la materia Construcción de Interfases de Usuario de la UNaHur (Universidad Nacional de Hurlingham).
 Desarrollado por Hernán M. Coniglio.
 
-Desplegado en Netlify: [https://64a5e923aa400e025bf188e5--bright-cannoli-8e5045.netlify.app/](https://proyectociu-hernanconiglio.netlify.app/)
+Desplegado en Netlify: [https://proyectociu-hernanconiglio.netlify.app/](https://proyectociu-hernanconiglio.netlify.app/)
 
 ## Descripción
 
