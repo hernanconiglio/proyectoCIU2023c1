@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17ff5b8a.css",
+    "main.js": "/static/js/main.a1886cb2.js",
+    "static/media/logonasa4.png": "/static/media/logonasa4.1ce50874a9d95c104cde.png",
+    "static/media/starfleet.png": "/static/media/starfleet.a573bacbfce68334d147.png",
+    "static/media/logonasa2.png": "/static/media/logonasa2.d78c8070b65e58e877e4.png",
+    "static/media/logonasa5.png": "/static/media/logonasa5.22ced08f6829c4494ce0.png",
+    "static/media/logonasa3.png": "/static/media/logonasa3.4ae055ab20441c0bf6bc.png",
+    "static/media/logonasa.png": "/static/media/logonasa.8362bfab15cb0da1e7ec.png",
+    "static/media/botonModoClaro.jpg": "/static/media/botonModoClaro.6a383e5b03ed3b450a82.jpg",
+    "static/media/botonModoOscuro.jpg": "/static/media/botonModoOscuro.6a383e5b03ed3b450a82.jpg",
+    "static/media/logoksp.png": "/static/media/logoksp.aeaddcf11e4f73d6d691.png",
+    "static/media/UNAHUR-logo.png": "/static/media/UNAHUR-logo.febb20d9e4c73fed8786.png",
+    "static/media/Nasa.ttf": "/static/media/Nasa.bc0eedd9d951dd50cf5f.ttf",
+    "index.html": "/index.html",
+    "main.17ff5b8a.css.map": "/static/css/main.17ff5b8a.css.map",
+    "main.a1886cb2.js.map": "/static/js/main.a1886cb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17ff5b8a.css",
+    "static/js/main.a1886cb2.js"
+  ]
+}
